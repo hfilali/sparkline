@@ -1,0 +1,215 @@
+.button:hover,
+.button.active2, 
+.pagenavi li a.active,
+.connect .follower a:hover,
+#portfolio_hover li .hover,
+#portfolio_hover li:hover
+.portfolio_item .hover,.follower a.sr:hover {
+    background: none repeat scroll 0 0 #cc3333;
+}
+ 
+ .box-style:hover,.connect .follower a:hover  {
+    border-color: #cc3333;
+}
+
+.box-style:hover .btn-white {
+    background: none repeat scroll 0 0 #cc3333;
+	border-color: #cc3333;
+}
+
+[class*="span"] .box-style:hover span:after{
+    color: #cc3333;
+}
+
+.small-slider .carousel-caption h1 span, .portfolio:hover h2,.portfolio .hover span, .bg-color  {
+    background: none repeat scroll 0 0 #cc3333;
+}
+
+.blog h2 a:hover, .team-data h2:hover span, .ui-tabs .ui-tabs-nav li.ui-tabs-active a,.ui-tabs .ui-tabs-nav li.ui-tabs-active span, .tabs h2, .color,.footerbox span.color{
+    color: #cc3333;
+}
+
+.likebtn a.l-btn:hover, #accordion_os .ui-state-active .ui-accordion-header-icon, .accordion_op .ui-accordion-header.ui-state-active .ui-accordion-header-icon{
+    background-color: #cc3333;
+}
+
+.prev2 a:hover, .next2 a:hover {
+    background: none repeat scroll 0 0 #cc3333;
+}
+
+.nav-btn a.activeSlide, .team-data h2:hover span,.accordion_op .ui-accordion-header.ui-state-active:before, .accordion_op .ui-accordion-content.ui-accordion-content-active, .accordion_op .ui-accordion-header.ui-state-active  {
+    border-color: #cc3333;
+}	
+
+.team-sr:hover {
+	background: none repeat scroll 0 0 #cc3333;
+	border: 1px solid #cc3333;
+}	
+
+.team-sr li a:hover {
+    border-color: #cc3333;
+}
+.team-sr li a:hover span {
+    color: #cc3333;
+}
+
+.service2:hover{
+    background: none repeat scroll 0 0 #cc3333;	
+}
+
+.service2:hover{
+   border-color: #cc3333;	
+}
+
+.service_box_arrow:hover .arrow_box:after  {
+  border-color: rgba(227, 229, 231, 0) rgba(227, 229, 231, 0) rgba(227, 229, 231, 0) #cc3333;
+}
+
+.angle h2 span {
+    color: #cc3333;
+}   
+
+.p404 h1 {
+    color: #cc3333;
+}
+
+.s_need ul li:before {
+    color: #cc3333;
+}
+
+.s_need ul li a:hover {
+    color: #cc3333;
+}
+
+.date-list ul li a:hover {
+    color: #cc3333;
+}
+
+.pagenavi li a:hover {
+    background: none repeat scroll 0 0 #cc3333;
+}
+
+.pagenavi li a:hover {
+    border-color: #cc3333;
+}
+
+.active{
+    background: none repeat scroll 0 0 #cc3333;
+    border-color: #cc3333;
+}
+
+.p-nav ul li:hover:before {
+    background: none repeat scroll 0 0 #cc3333;
+	border-bottom: 1px solid #cc3333;
+    border-right: 1px solid #cc3333;
+}	
+
+ .p-nav ul li a.active{
+    border: 1px solid;
+ }
+
+.p-nav ul li a.active:before {
+    background: none repeat scroll 0 0 #cc3333;
+    border-bottom: 1px solid #cc3333;
+    border-right: 1px solid #cc3333;
+}   
+
+.probtn:hover {
+    background: none repeat scroll 0 0 #cc3333;
+	border-color: #cc3333;
+}	
+
+.widget ul li:hover {
+    border-color: #cc3333;
+}
+
+.widget ul li:hover a {
+    color: #cc3333;
+}
+
+.tag a:hover {
+    background: none repeat scroll 0 0 #cc3333;
+	border-color: #cc3333;
+}	
+
+.home-now {
+    background-color: #cc3333;
+}
+
+.fbox ul li:hover {
+    border-bottom: 2px solid #cc3333;
+}
+
+.fbox ul li a:hover {
+    color: #cc3333;
+}
+
+.v-green {
+    border-color: #cc3333;
+}
+.flickr ul li:hover{    border-color: #cc3333;}
+
+.p404 h1 {
+    color: #cc3333;
+}	
+
+.skillset .skill_set_item .progress-bar .progress-bar-content{
+	background: none repeat scroll 0 0 #cc3333;
+}
+
+.color,#main-menu ul li ul li a:hover, #menu ul li ul li.current-menu-item a, #menu ul li ul li.current-page-item a{
+    border-color: #cc3333;
+}
+
+.color:hover {
+    border-color: #cc3333 ;
+}
+
+.color-m span,.color-m span:hover{
+    border-color: #cc3333 ;
+    color: #cc3333;
+}
+
+a:hover, a:focus,a {
+	color: #cc3333;	
+}
+
+*::-moz-selection {
+    background-color: #cc3333;
+}	
+
+a.button,.button {
+    border-color: #cc3333;
+	background-color: #cc3333;
+}	
+
+a span,span{
+    border-color: #cc3333 ;
+    color: #cc3333;
+}
+
+.follower a.fr:hover {
+	background: none repeat scroll 0 0 #cc3333;
+    border-color: #cc3333;
+}
+/*
+.accordion_op .ui-state-active .ui-accordion-header-icon{
+	background-color: #cc3333;
+}
+.accordion_op .ui-accordion-header.ui-state-active:before{
+   border-bottom: 1px solid #cc3333;
+   border-color: #cc3333;
+   border-left: 1px solid #cc3333;
+}
+
+.ui-accordion-header.ui-state-active:before{
+
+}
+
+.accordion_op .ui-accordion-header.ui-state-active{
+	border: 1px solid #cc3333;
+}
+
+.accordion_op .ui-accordion-content{
+	border: 1px solid #cc3333;
+}*/
