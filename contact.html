@@ -54,162 +54,157 @@
 <body>
  <div id="boxed">
 <section>
+<!-- BAR NAVIGATION
+================================================== -->
+<div class="navbar-wrapper">
+<!-- Wrap the .navbar in .container to center it within the absolutely positioned parent. -->
+    <div class="container">
+        <!-- LOGO -->
+        <div class="logo">
+            <a class="brand" href="home.html"><img src="" alt="logo sparkline"/></a>
+        </div>						
+        
+        <!-- SUIVEZ-NOUS SUR LES RESEAUX SOCIAUX-->
+		<div class="follower">
+            <ul>
+                <li><a class="fr" href="#"><span class="icon-plus-3 add"></span>Suivez-nous</a>
+                    <div class="follow-list"> 
+                        <ul>
+                            <li class="s-twitter"><a href="https://twitter.com/sparklinetalks"><span class="icon-twitter"></span>Twitter</a></li>
+							<li class="s-linkedin"><a href="https://www.linkedin.com/company/sparkline-human-finders/"><span class="icon-linkedin"></span>Linkedin</a></li>
+				        </ul>
+				    </div>						
+				</li>
+            </ul>
+        </div>
+        
+        <!-- MENU -->
+        <div id="main-menu">
+            <!-- Responsive Navbar Part 1: Button for triggering responsive navbar (not covered in tutorial). Include responsive CSS to utilize. -->
+			<ul class="sf-menu color-m"> <!-- Menu color Class  "color-m"-->
+                <li><a href="home.html"><span class="icon-house"></span>Accueil</a></li>
+				<li><a href="#"><span class="icon-docs"></span>Chasse de jobs</a>					  
+                    <ul>
+						<li><a href="chassedejobs.html" class=" color">Concept & Valeurs ajoutées</a>
+                            <a href="fichesmetiers.html" class=" color">Les fiches métiers</a>
+                        </li>
+                    </ul>
+				</li>
+				<li><a href="blog.html"><span class="icon-cycle"></span>Blog</a></li>
+				<li><a href="team.html"><span class="icon-feather "></span>Equipe</a></li>
+                <li><a href="contact.html"><span class="icon-feather "></span>Contact</a></li>
+            </ul>
+        </div><!-- /main-menu -->
+    </div> <!-- /.container -->
+</div>
+<!-- FIN BAR NAVIGATION -->	
 
-
-	<!-- NAVBAR
-    ================================================== -->
-    <div class="navbar-wrapper">
-	    <!-- Wrap the .navbar in .container to center it within the absolutely positioned parent. -->
-        <div class="container">
-			<div class="logo">
-			    <a class="brand" href="home.html"><img src="images/logo_sparkline.png" alt="logo sparkline"/></a>
-			</div>						
-
-			<div class="follower">
-				<ul>
-					<li><a class="fr" href="#"><span class="icon-plus-3 add"></span>Suivez-nous</a>
-						<div class="follow-list"> 
-							<ul>
-								<li class="s-twitter"><a href="https://twitter.com/sparklinetalks"><span class="icon-twitter"></span>Twitter</a></li>
-								<li class="s-linkedin"><a href="https://www.linkedin.com/company/sparkline-human-finders/"><span class="icon-linkedin"></span>Linkedin</a></li>
-				            </ul>
-						</div>						
-					</li>
-				</ul>
-			</div>		
-			
-			<div id="main-menu">
-				<!-- Responsive Navbar Part 1: Button for triggering responsive navbar (not covered in tutorial). Include responsive CSS to utilize. -->
-				<ul class="sf-menu color-m"> <!-- Menu color Class  "color-m"-->
-					<li>
-						<a href="home.html"><span class="icon-house"></span>Accueil</a>					
-					</li>
-					<li>
-						<a href="#"><span class="icon-docs"></span>Chasse de jobs</a>					  
-						<ul>
-							<li>
-								<a href="concept.html" class=" color">Le concept</a>
-								<a href="addvalue.html" class=" color">La valeur ajoutée</a>
-                                <a href="fichesmetiers.html" class=" color">Les fiches métiers</a>
-                            </li>
-                        </ul>
-					</li>
-					<li>
-						<a href="blog.html"><span class="icon-cycle"></span>Blog</a>				
-					</li>
-				    <li>
-                        <a href="team.html"><span class="icon-feather "></span>Equipe</a>
-				    </li>
-                    <li>
-                        <a href="contact.html"><span class="icon-feather "></span>Contact</a>
-				    </li>
-				</ul>  
-			</div><!-- /main-menu -->
-		</div> <!-- /.container -->
-	  
-		<div class="search-bar">
-			<div class="container">
-				<p><b> <span class="search icon-search"></span></b>
-				<input type="text" value="Type to Search" name="searchinput" id="searchinput" onblur="if (this.value == ''){this.value = 'Type to Search';}" onfocus="if (this.value == 'Type to Search'){this.value = '';}"   />
-				<a href="#" class="close"> <span class="search icon-cross"></span></a></p>
-			</div> <!-- /.container -->
-		</div><!-- /.search-bar -->
-    </div><!-- /.navbar-wrapper -->
-	
-
-
-<div class="title-bar tbg-2"><!-- style col-shadow/  -->
+<!-- BAR TITRE -->
+<div class="title-bar"><!-- style t-shadow/ t-gray/ -->
 	<div class="container ">
-		<h2 class="page-title">Contact</h2> <!-- /.page-title -->
-		
+		<h2 class="page-title">CONTACT</h2> <!-- /.page-title -->
 		<div class="page-root">
-			<a href="home.html">Home</a>/
+			<a href="home.html">Accueil</a>/
 			<a href="#">Contact</a>			
 		</div> <!-- /.page-root -->
-		
 	</div> <!-- /.container -->
-</div><!-- /.title-bar -->	
-
-
-
-
+</div><!-- /.title-bar -->
+<!-- FIN BAR TITRE -->
 
 
 <div class="col-wrap "><!-- style col-shadow/ col-gray/ testimonial/-->
-<div class="container ">
-      <!-- Three columns of text below the carousel -->
-	  
-      <div class="row-fluid">
-        <div class="span8 themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible left-to-right">
-	  
-			  <h1>Contactez-nous.</h1>
-				<!--   hr-Start-->	
-			<div class="hr hr-left hr-short"> <!--   hr-center/ hr-left/ hr-right/  hr-short/ hr-light/-->
-				<span class="hr-inner">
-					<span class="hr-inner-style"></span>
-				</span>
-			</div>
-				<!--   hr-Close-->		
-			<div class="contactform">
-				<form action="" method="post" onsubmit="return send_contact_message();">
-					<p>Votre nom <span>*</span>
-						<input type="text" value="Your Name" name="contact_name" id="contact_name" class="contact_form_box " onblur="if (this.value == ''){this.value = 'Your Name';}" onfocus="if (this.value == 'Your Name'){this.value = '';}"   />						
-					</p>
-					<p>Votre Email <span>*</span>
-						<input type="text" value="Your Email" name="contact_email" id="contact_email" class="contact_form_box " onblur="if (this.value == ''){this.value = 'Your Email';}" onfocus="if (this.value == 'Your Email'){this.value = '';}"   />						
-					</p>
-					<p>Objet <span>*</span>
-						<input type="text" value="Subject" name="contact_subject" id="contact_subject" class="contact_form_box " onblur="if (this.value == ''){this.value = 'Subject';}" onfocus="if (this.value == 'Subject'){this.value = '';}"   />						
-					</p>
-					<p>Message <span>*</span>
-						<textarea onblur="if(this.value=='')this.value=this.defaultValue;" class="contact_form_box " onfocus="if(this.value==this.defaultValue)this.value='';" name="contact_message" id="contact_message">Tapez votre message</textarea>						
-					</p>						
-						<div>
-							<input type="submit" value="Envoyer votre message" class="submit button purchase btn-sent " /> 
-						
-							<div id="contact_form_message_box">
-								
-							</div>
-						</div>					
-				</form>				
-			</div><!-- contact-Close -->
-				
-				
-        </div><!-- /.span8 -->
-
-       </div><!-- /.row -->	  	  
-	  
-</div>
+    <div class="container ">
+        <!-- Three columns of text below the carousel -->
+        <div class="row-fluid">
+            <div class="span8 themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible left-to-right">
+                <h1>Contactez-nous.</h1>
+                <!--   hr-Start-->
+                <div class="hr hr-left hr-short"> <!--   hr-center/ hr-left/ hr-right/  hr-short/ hr-light/-->
+                    <span class="hr-inner">
+                        <span class="hr-inner-style"></span>
+                    </span>
+                </div>
+				<!--   hr-Close-->
+                
+                <!-- FORMULAIRE CONTACT -->
+                <div class="contactform">
+                    <form action="" method="post" onsubmit="return send_contact_message();">
+                        <p>Votre Nom <span>*</span>
+                            <input type="text" value="Votre Nom" name="contact_name" id="contact_name" class="contact_form_box " onblur="if (this.value == ''){this.value = 'Votre Nom';}" onfocus="if (this.value == 'Votre Nom'){this.value = '';}"   />
+                        </p>
+                        <p>Votre Email <span>*</span>
+						<input type="text" value="Votre Email" name="contact_email" id="contact_email" class="contact_form_box " onblur="if (this.value == ''){this.value = 'Votre Email';}" onfocus="if (this.value == 'Votre Email'){this.value = '';}"   />
+                        </p>
+					   <p>Objet <span>*</span>
+                           <input type="text" value="Objet de votre demande" name="contact_subject" id="contact_subject" class="contact_form_box " onblur="if (this.value == ''){this.value = 'Objet de votre demande';}" onfocus="if (this.value == 'Objet  de votre demande'){this.value = '';}"   />
+                        </p>
+                        <p>Votre Message <span>*</span>
+                            <textarea onblur="if(this.value=='')this.value=this.defaultValue;" class="contact_form_box " onfocus="if(this.value==this.defaultValue)this.value='';" name="contact_message" id="contact_message">Tapez votre message</textarea>
+                        </p>
+                        <div>
+                            <input type="submit" value="Envoyer votre message" class="submit button purchase btn-sent " /> 
+                            <div id="contact_form_message_box"></div>
+						</div>
+                    </form>				
+                </div>
+                <!-- FIN DU FORMULAIRE CONTACT -->
+            </div><!-- /.span8 -->
+        </div><!-- /.row -->
+    </div>
 </div><!-- /.col -->	
 
+    
+<!-- GOOGLE MAPS -->
 <div class="col-wrap"><!-- style col-shadow/ col-gray/ testimonial/-->
-<div class="container ">
-
-      <!-- Three columns of text below the carousel -->
-      <div class="row-fluid"><!-- box-style row Class .box-style -->
-        <div class="span12 ">
-				<div id="LocationMap">
-				<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/?ie=UTF8&amp;ll=48.8748245,2.3207715&amp;spn=48.8748245,2.3207715&amp;t=m&amp;z=14&amp;output=embed"></iframe>
+    <div class="container ">
+        <!-- Three columns of text below the carousel -->
+        <div class="row-fluid"><!-- box-style row Class .box-style -->
+            <div class="span12 ">
+                <div id="LocationMap">
+                    <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/?ie=UTF8&amp;ll=48.8748245,2.3207715&amp;spn=48.8748245,2.3207715&amp;t=m&amp;z=14&amp;output=embed"></iframe>
 				</div>
-        </div><!-- /.span4 -->
-
-
-      </div><!-- /.row -->		  
-</div>
+            </div><!-- /.span4 -->
+        </div><!-- /.row -->
+    </div>
 </div><!-- /.col -->	
 
-<!--Footer _ Start-->
+    
+<!-- BARRE DES RESEAUX SOCIAUX -->
+<div class="col-wrap shear-icon-box col-gray"><!-- style col-shadow/ col-gray/ testimonial/-->
+    <div class="container ">		 
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="shear-icon">
+                    <ul>
+                        <li class="s-twitter themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible left-to-right">
+                            <a href="https://twitter.com/sparklinetalks"  rel="twitter">
+                                <span class="icon-twitter">
+                            </a>
+                        </li>
+						<li class="s-linkedin themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible right-to-left">
+                            <a href="https://www.linkedin.com/company/sparkline-human-finders"  rel="linkedin">
+                                <span class="icon-linkedin">
+                            </a>
+                        </li>
+				    </ul>
+				</div>
+            </div><!-- /.span12 -->
+        </div><!-- /.row-fluid -->
+    </div>
+</div><!-- /.col -->
+
+
+<!--FOOTER -->
 <div class="footerbox col-shadow">
     <div class="container">
-        
-        <div class="fbox">	
-           <h2>Informations pratiques</h2>
-           <!--   hr-Start-->	
-           <div class="hr hr-left hr-light"> <!--   hr-center/ hr-left/ hr-right/  hr-short/ hr-light/-->
-               <span class="hr-inner">
-                   <span class="hr-inner-style"></span>
-               </span>
-           </div>
+        <div class="fbox">
+            <h2>Informations pratiques</h2>
+            <!--   hr-Start-->	
+            <div class="hr hr-left hr-light"> <!--   hr-center/ hr-left/ hr-right/  hr-short/ hr-light/-->
+                <span class="hr-inner">
+                    <span class="hr-inner-style"></span>
+                </span>
+            </div>
 			<!--   hr-Close-->
 			<p><a class="brand" href="home.html"><img src="images/logo2_sparkline.png" alt="logo sparkline"/></a></p>
             <address>
@@ -250,7 +245,9 @@
 				</span>
 			</div>
 			<!--   hr-Close-->					
-            <div id="gettweet"><span class="wait">Loading tweets...</span></div>
+            <div id="gettweet">
+                <span class="wait">Loading tweets...</span>
+            </div>
         </div>	<!--fpost_close-->	
         
         <div class="fbox last">	
@@ -264,7 +261,7 @@
             <!--   hr-Close-->					
             <ul>
                 <li><a href="home.html">Accueil</a></li>
-                <li><a href="concept.html">Chasse de jobs</a></li>
+                <li><a href="chassedejobs.html">Chasse de jobs</a></li>
                 <li><a href="blog.html">Blog</a></li>
                 <li><a href="team.html">Equipe</a></li>
                 <li><a href="contact.html">Contact</a></li>
