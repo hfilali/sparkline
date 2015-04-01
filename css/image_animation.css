@@ -1,0 +1,473 @@
+
+ .themeapt-testimonial .themeapt-testimonial-image {
+    opacity: 0.2;
+    transform: scale(0.5);
+}
+.themeapt-gallery-thumb img {
+    opacity: 0.1;
+}
+.themeapt_animated_image.themeapt_image{
+opacity: 0;
+}
+
+.themeapt_animated_text.themeapt_text{
+opacity: 0;
+}
+
+.themeapt-testimonial-image img {
+    border-radius: 100px 100px 100px 100px;
+}
+.themeapt-testimonial-image {
+    border-radius: 100px 100px 100px 100px;
+	height:80px;
+	width:80px;
+}
+
+.themeapt-icon-list .themeapt_start_animation .iconlist_icon{
+-webkit-animation: themeapt_appear 1s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Safari 4+ */
+-moz-animation:    themeapt_appear 1s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Fx 5+ */
+-o-animation:      themeapt_appear 1s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Opera 12+ */
+animation:         themeapt_appear 1s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* IE 10+ */
+opacity: 1;
+-moz-transform:scale(1);
+-webkit-transform:scale(1);
+-o-transform:scale(1);
+transform:scale(1);
+}
+
+ .themeapt-icon-list .themeapt_start_animation .iconlist-timeline{
+-webkit-animation: themeapt_slide_down 1s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Safari 4+ */
+-moz-animation:    themeapt_slide_down 1s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Fx 5+ */
+-o-animation:      themeapt_slide_down 1s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Opera 12+ */
+animation:         themeapt_slide_down 1s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* IE 10+ */
+height: 100%;
+
+}
+
+
+
+
+/* ======================================================================================================================================================
+Testimonials
+====================================================================================================================================================== */
+
+.themeapt_start_animation.themeapt-testimonial .themeapt-testimonial-image{
+-webkit-animation: themeapt_appear 0.4s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Safari 4+ */
+-moz-animation:    themeapt_appear 0.4s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Fx 5+ */
+-o-animation:      themeapt_appear 0.4s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Opera 12+ */
+animation:         themeapt_appear 0.4s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* IE 10+ */
+opacity: 1;
+-webkit-transform:scale(1);
+-moz-transform:scale(1);
+-o-transform:scale(1);
+transform:scale(1);
+}
+
+
+
+
+.themeapt-progress-bar div.progress-bar .progress-bar-content{
+-webkit-animation: avia-bg-move 1.2s linear infinite; /* Safari 4+ */
+-moz-animation:    avia-bg-move 1.2s linear infinite; /* Fx 5+ */
+-o-animation:      avia-bg-move 1.2s linear infinite; /* Opera 12+ */
+animation:         avia-bg-move 1.2s linear infinite; /* IE 10+ */
+height: 100%;
+}
+
+.themeapt-progress-bar div.progress-bar {
+clear: both;
+}
+
+ div.progress-bar .bar-outer{
+width:0;
+}
+
+.themeapt-progress-bar div.progress-bar .progress-bar-content{
+-webkit-animation: themeapt-bg-move 1.2s linear infinite; /* Safari 4+ */
+-moz-animation:    themeapt-bg-move 1.2s linear infinite; /* Fx 5+ */
+-o-animation:      themeapt-bg-move 1.2s linear infinite; /* Opera 12+ */
+animation:         themeapt-bg-move 1.2s linear infinite; /* IE 10+ */
+height: 100%;
+}
+
+
+
+ .themeapt-progress-bar div.progress-bar.themeapt_start_animation .bar-outer{
+-webkit-animation: themeapt_expand 1.5s cubic-bezier(0.165, 0.840, 0.440, 1.000);  /* Safari 4+ */
+-moz-animation:    themeapt_expand 1.5s cubic-bezier(0.165, 0.840, 0.440, 1.000);  /* Fx 5+ */
+-o-animation:      themeapt_expand 1.5s cubic-bezier(0.165, 0.840, 0.440, 1.000);  /* Opera 12+ */
+animation:         themeapt_expand 1.5s cubic-bezier(0.165, 0.840, 0.440, 1.000);  /* IE 10+ */
+width:100%;
+}
+
+
+
+.themeapt_start_animation.top-to-bottom.themeapt_image{
+-webkit-animation: themeapt-ttb 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Safari 4+ */
+-moz-animation:    themeapt-ttb 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Fx 5+ */
+-o-animation:      themeapt-ttb 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Opera 12+ */
+animation:         themeapt-ttb 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* IE 10+ */
+opacity: 1;
+}
+
+.themeapt_start_animation.bottom-to-top.themeapt_image{
+-webkit-animation: themeapt-btt 0.8s 1 cubic-bezier(0.165, 0.840, 0.440, 1.000); /* Safari 4+ */
+-moz-animation:    themeapt-btt 0.8s 1 cubic-bezier(0.165, 0.840, 0.440, 1.000); /* Fx 5+ */
+-o-animation:      themeapt-btt 0.8s 1 cubic-bezier(0.165, 0.840, 0.440, 1.000); /* Opera 12+ */
+animation:         themeapt-btt 0.8s 1 cubic-bezier(0.165, 0.840, 0.440, 1.000); /* IE 10+ */
+opacity: 1;
+}
+
+.themeapt_start_animation.left-to-right.themeapt_image{
+-webkit-animation: themeapt-ltr 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Safari 4+ */
+-moz-animation:    themeapt-ltr 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Fx 5+ */
+-o-animation:      themeapt-ltr 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Opera 12+ */
+animation:         themeapt-ltr 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* IE 10+ */
+opacity: 1;
+}
+
+ .themeapt_start_animation.right-to-left.themeapt_image{
+-webkit-animation: themeapt-rtl 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Safari 4+ */
+-moz-animation:    themeapt-rtl 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Fx 5+ */
+-o-animation:      themeapt-rtl 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Opera 12+ */
+animation:         themeapt-rtl 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* IE 10+ */
+opacity: 1;
+}
+
+
+/*Text Animation*/
+
+.themeapt_start_animation.top-to-bottom.themeapt_text{
+-webkit-animation: themeapt-ttb 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Safari 4+ */
+-moz-animation:    themeapt-ttb 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Fx 5+ */
+-o-animation:      themeapt-ttb 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Opera 12+ */
+animation:         themeapt-ttb 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* IE 10+ */
+opacity: 1;
+}
+
+.themeapt_start_animation.bottom-to-top.themeapt_text{
+-webkit-animation: themeapt-btt 0.8s 1 cubic-bezier(0.165, 0.840, 0.440, 1.000); /* Safari 4+ */
+-moz-animation:    themeapt-btt 0.8s 1 cubic-bezier(0.165, 0.840, 0.440, 1.000); /* Fx 5+ */
+-o-animation:      themeapt-btt 0.8s 1 cubic-bezier(0.165, 0.840, 0.440, 1.000); /* Opera 12+ */
+animation:         themeapt-btt 0.8s 1 cubic-bezier(0.165, 0.840, 0.440, 1.000); /* IE 10+ */
+opacity: 1;
+}
+
+.themeapt_start_animation.left-to-right.themeapt_text{
+-webkit-animation: themeapt-ltr 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Safari 4+ */
+-moz-animation:    themeapt-ltr 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Fx 5+ */
+-o-animation:      themeapt-ltr 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Opera 12+ */
+animation:         themeapt-ltr 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* IE 10+ */
+opacity: 1;
+}
+
+ .themeapt_start_animation.right-to-left.themeapt_text{
+-webkit-animation: themeapt-rtl 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Safari 4+ */
+-moz-animation:    themeapt-rtl 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Fx 5+ */
+-o-animation:      themeapt-rtl 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Opera 12+ */
+animation:         themeapt-rtl 0.8s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* IE 10+ */
+opacity: 1;
+}
+
+
+
+
+/*gallery animation*/
+
+ .themeapt-gallery-thumb  img.themeapt_start_animation{
+-webkit-animation: themeapt_appear 0.9s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Safari 4+ */
+-moz-animation:    themeapt_appear 0.9s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Fx 5+ */
+-o-animation:      themeapt_appear 0.9s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* Opera 12+ */
+animation:         themeapt_appear 0.9s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275); /* IE 10+ */
+opacity: 1;
+}
+
+
+
+
+
+
+
+
+.csstransitions .av_slideshow_full .active-slide .themeapt-caption-content,
+.csstransitions .av_fullscreen .active-slide .themeapt-caption-content
+{
+visibility: visible;
+-webkit-animation: caption-right  1s 1 cubic-bezier(0.985, 0.005, 0.265, 1);
+-moz-animation:    caption-right  1s 1 cubic-bezier(0.985, 0.005, 0.265, 1);
+-o-animation:      caption-right  1s 1 cubic-bezier(0.985, 0.005, 0.265, 1);
+animation:         caption-right  1s 1 cubic-bezier(0.985, 0.005, 0.265, 1);
+}
+
+.csstransitions .av_fullscreen .active-slide .themeapt-slideshow-button
+{
+visibility: visible;
+-webkit-animation: caption-left  1.2s 1 cubic-bezier(0.985, 0.005, 0.265, 1);
+-moz-animation:    caption-left  1.2s 1 cubic-bezier(0.985, 0.005, 0.265, 1);
+-o-animation:      caption-left  1.2s 1 cubic-bezier(0.985, 0.005, 0.265, 1);
+animation:         caption-left  1.2s 1 cubic-bezier(0.985, 0.005, 0.265, 1);
+}
+
+
+.csstransitions .av_slideshow_full .active-slide .themeapt-caption-title,
+.csstransitions .av_fullscreen .active-slide .themeapt-caption-title
+{
+visibility: visible;
+-webkit-animation: caption-left   1s 1 cubic-bezier(0.985, 0.005, 0.265, 1);
+-moz-animation:    caption-left   1s 1 cubic-bezier(0.985, 0.005, 0.265, 1);
+-o-animation:      caption-left   1s 1 cubic-bezier(0.985, 0.005, 0.265, 1);
+animation:         caption-left   1s 1 cubic-bezier(0.985, 0.005, 0.265, 1);
+}
+
+.csstransitions .av_slideshow_full.themeapt-fade-slider .active-slide .themeapt-caption-content,
+.csstransitions .av_fullscreen.themeapt-fade-slider .active-slide .themeapt-caption-content
+{
+visibility: visible;
+-webkit-animation: caption-bottom 0.5s 1 ease-out;
+-moz-animation:    caption-bottom 0.5s 1 ease-out;
+-o-animation:      caption-bottom 0.5s 1 ease-out;
+animation:         caption-bottom 0.5s 1 ease-out;
+}
+
+.csstransitions .av_slideshow_full.themeapt-fade-slider .active-slide .themeapt-caption-title,
+.csstransitions .av_fullscreen.themeapt-fade-slider .active-slide .themeapt-caption-title
+{
+visibility: visible;
+-webkit-animation: caption-top    0.5s 1 ease-out;
+-moz-animation:    caption-top    0.5s 1 ease-out;
+-o-animation:      caption-top    0.5s 1 ease-out;
+animation:         caption-top    0.5s 1 ease-out;
+}
+
+.csstransitions .av_fullscreen.themeapt-fade-slider .active-slide .themeapt-slideshow-button
+{
+visibility: visible;
+-webkit-animation: caption-top  1.2s 1 ease-out;
+-moz-animation:    caption-top  1.2s 1 ease-out;
+-o-animation:      caption-top  1.2s 1 ease-out;
+animation:         caption-top  1.2s 1 ease-out;
+}
+
+
+
+
+	
+
+/* ======================================================================================================================================================
+ANIMATIONS
+====================================================================================================================================================== */
+
+
+/*pop up animation*/
+@-webkit-keyframes themeapt_appear {
+  0%   { -webkit-transform:scale(0.5); opacity: 0.1;  }
+  100% { -webkit-transform:scale(1); opacity: 1; }
+}
+@-moz-keyframes themeapt_appear {
+  0%   { -moz-transform:scale(0.5); opacity: 0.1;  }
+  100% { -moz-transform:scale(1);opacity: 1;  }
+}
+@-o-keyframes themeapt_appear {
+  0%   { -o-transform:scale(0.5); opacity: 0.1;  }
+  100% { -o-transform:scale(1);  opacity: 1; }
+}
+@keyframes themeapt_appear {
+  0%   { transform:scale(0.5); opacity: 0.1;  }
+  100% { transform:scale(1); opacity: 1;  }
+}
+
+/*slide down (height increase) animation*/
+@-webkit-keyframes themeapt_slide_down {
+  0%   { height:0%; }
+  100% { height:100%; }
+}
+@-moz-keyframes themeapt_slide_down {
+  0%   { height:0%; }
+  100% { height:100%; }
+}
+@-o-keyframes themeapt_slide_down {
+  0%   { height:0%; }
+  100% { height:100%; }
+}
+@keyframes themeapt_slide_down {
+  0%   { height:0%; }
+  100% { height:100%; }
+}
+
+/*expand width animation*/
+@-webkit-keyframes themeapt_expand {
+  0%   { width:0%; }
+  100% { width:100%; }
+}
+@-moz-keyframes themeapt_expand {
+  0%   { width:0%; }
+  100% { width:100%; }
+}
+@-o-keyframes themeapt_expand {
+  0%   { width:0%; }
+  100% { width:100%; }
+}
+@keyframes themeapt_expand {
+  0%   { width:0%; }
+  100% { width:100%; }
+}
+
+/*fade in animation*/
+
+@-webkit-keyframes themeapt-ltr {
+  0%   { -webkit-transform:translate(-10%,0); opacity: 0;  }
+  100% { -webkit-transform:translate(0,0); opacity: 1; }
+}
+@-moz-keyframes themeapt-ltr {
+  0%   { -moz-transform:translate(-10%,0); opacity: 0;  }
+  100% { -moz-transform:translate(0,0); opacity: 1; }
+}
+@-o-keyframes themeapt-ltr {
+  0%   { -o-transform:translate(-10%,0); opacity: 0;  }
+  100% { -o-transform:translate(0,0); opacity: 1; }
+}
+@keyframes themeapt-ltr {
+  0%   { transform:translate(-10%,0); opacity: 0;  }
+  100% { transform:translate(0,0); opacity: 1; }
+}
+
+@-webkit-keyframes themeapt-rtl {
+  0%   { -webkit-transform:translate(10%,0); opacity: 0;  }
+  100% { -webkit-transform:translate(0,0); opacity: 1; }
+}
+@-moz-keyframes themeapt-rtl {
+  0%   { -moz-transform:translate(10%,0); opacity: 0;  }
+  100% { -moz-transform:translate(0,0); opacity: 1; }
+}
+@-o-keyframes themeapt-rtl {
+  0%   { -o-transform:translate(10%,0); opacity: 0;  }
+  100% { -o-transform:translate(0,0); opacity: 1; }
+}
+@keyframes themeapt-rtl {
+  0%   { transform:translate(10%,0); opacity: 0;  }
+  100% { transform:translate(0,0); opacity: 1; }
+}
+
+@-webkit-keyframes themeapt-btt {
+  0%   { -webkit-transform:translate(0,50%); opacity: 0;  }
+  100% { -webkit-transform:translate(0,0); opacity: 1; }
+}
+@-moz-keyframes themeapt-btt {
+  0%   { -moz-transform:translate(0,50%); opacity: 0;  }
+  100% { -moz-transform:translate(0,0); opacity: 1; }
+}
+@-o-keyframes themeapt-btt {
+  0%   { -o-transform:translate(0,50%); opacity: 0;  }
+  100% { -o-transform:translate(0,0); opacity: 1; }
+}
+@keyframes themeapt-btt {
+  0%   { transform:translate(0,50%); opacity: 0;  }
+  100% { transform:translate(0,0); opacity: 1; }
+}
+
+@-webkit-keyframes themeapt-ttb {
+  0%   { -webkit-transform:translate(0, -10%); opacity: 0;  }
+  100% { -webkit-transform:translate(0,0); opacity: 1; }
+}
+@-moz-keyframes themeapt-ttb {
+  0%   { -moz-transform:translate(0, -10%); opacity: 0;  }
+  100% { -moz-transform:translate(0,0); opacity: 1; }
+}
+@-o-keyframes themeapt-ttb {
+  0%   { -o-transform:translate(0, -10%); opacity: 0;  }
+  100% { -o-transform:translate(0,0); opacity: 1; }
+}
+@keyframes themeapt-ttb {
+  0%   { transform:translate(0, -10%); opacity: 0;  }
+  100% { transform:translate(0,0); opacity: 1; }
+}
+
+/*background animation*/
+@-webkit-keyframes themeapt-bg-move {
+  0%   { background-position: -31px 0;  }
+  100% { background-position: 0 0; }
+}
+@-moz-keyframes themeapt_bg_move {
+  0%   { background-position: -31px 0;  }
+  100% { background-position: 0 0; }
+}
+@-o-keyframes themeapt_bg_move {
+  0%   { background-position: -31px 0;  }
+  100% { background-position: 0 0; }
+}
+@keyframes themeapt_bg_move {
+  0%   { background-position: -31px 0;  }
+  100% { background-position: 0 0; }
+}
+
+/*caption animation*/
+
+@-webkit-keyframes caption-right {
+  0%   { -webkit-transform:translate(2000px,0); opacity: 0;  }
+  100% { -webkit-transform:translate(0,0); opacity: 1; }
+}
+@-moz-keyframes caption-right {
+  0%   { -moz-transform:translate(2000px,0); opacity: 0;  }
+  100% { -moz-transform:translate(0,0); opacity: 1; }
+}
+@-o-keyframes caption-right {
+  0%   { -o-transform:translate(2000px,0); opacity: 0;  }
+  100% { -o-transform:translate(0,0); opacity: 1; }
+}
+@keyframes caption-right {
+  0%   { transform:translate(2000px,0); opacity: 0;  }
+  100% { transform:translate(0,0); opacity: 1; }
+}
+
+@-webkit-keyframes caption-left {
+  0%   { -webkit-transform:translate(-2000px,0); opacity: 0;  }
+  100% { -webkit-transform:translate(0,0); opacity: 1; }
+}
+@-moz-keyframes caption-left {
+  0%   { -moz-transform:translate(-2000px,0); opacity: 0;  }
+  100% { -moz-transform:translate(0,0); opacity: 1; }
+}
+@-o-keyframes caption-left {
+  0%   { -o-transform:translate(-2000px,0); opacity: 0;  }
+  100% { -o-transform:translate(0,0); opacity: 1; }
+}
+@keyframes caption-left {
+  0%   { transform:translate(-2000px,0); opacity: 0;  }
+  100% { transform:translate(0,0); opacity: 1; }
+}
+
+@-webkit-keyframes caption-top {
+  0%   { -webkit-transform:translate(0,-20px); opacity: 0;  }
+  100% { -webkit-transform:translate(0,0); opacity: 1; }
+}
+@-moz-keyframes caption-top {
+  0%   { -moz-transform:translate(0,-20px); opacity: 0;  }
+  100% { -moz-transform:translate(0,0); opacity: 1; }
+}
+@-o-keyframes caption-top {
+  0%   { -o-transform:translate(0,-20px); opacity: 0;  }
+  100% { -o-transform:translate(0,0); opacity: 1; }
+}
+@keyframes caption-top {
+  0%   { transform:translate(0,-20px); opacity: 0;  }
+  100% { transform:translate(0,0); opacity: 1; }
+}
+
+@-webkit-keyframes caption-bottom {
+  0%   { -webkit-transform:translate(0,20px); opacity: 0;  }
+  100% { -webkit-transform:translate(0,0); opacity: 1; }
+}
+@-moz-keyframes caption-bottom {
+  0%   { -moz-transform:translate(0,20px); opacity: 0;  }
+  100% { -moz-transform:translate(0,0); opacity: 1; }
+}
+@-o-keyframes caption-bottom {
+  0%   { -o-transform:translate(0,20px); opacity: 0;  }
+  100% { -o-transform:translate(0,0); opacity: 1; }
+}
+@keyframes caption-bottom {
+  0%   { transform:translate(0,20px); opacity: 0;  }
+  100% { transform:translate(0,0); opacity: 1; }
+}
+
+

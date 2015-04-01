@@ -1,0 +1,35 @@
+.easyPieChart {
+    position: relative;
+    text-align: center;
+}
+
+.easyPieChart canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+.percentage-top {
+    background: none repeat scroll 0 0 #2A323A;
+    border: 5px solid #FFFFFF;
+    border-radius: 40px 40px 40px 40px;
+    color: #FFFFFF;
+    height: 50px;
+    left: 36%;
+    position: absolute;
+    top: -18px;
+    width: 50px;
+    z-index: 9;
+	line-height:46px;
+}
+
+.percentage-top span{
+color:#FFFFFF;
+}
+
+.skills .label{
+	color:#57616A;
+	font-size:18px;
+	background:none;
+}

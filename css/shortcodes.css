@@ -1,0 +1,129 @@
+.hr {
+    clear: both;
+    display: block;
+    height: 25px;
+    line-height: 25px;
+    margin: 0 0 10px;
+    position: relative;
+    width: 223px;
+}
+.hr.hr-center {    width: 223px;}
+.hr-inner {
+    background: none repeat scroll 0 0 #d7d7d7;
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+}
+ .hr-inner{
+    background: none repeat scroll 0 0 transparent;
+    float: left;
+}
+.hr-center .hr-inner:after {
+    background: none repeat scroll 0 0 #D7D7D7;
+    content: "";
+    display: block;
+    height: 2px;
+    left: 126px;
+    position: absolute;
+    width: 99px;
+    z-index: 99;
+}
+.hr-center .hr-inner:before {
+    background: none repeat scroll 0 0 #D7D7D7;
+    content: "";
+    display: block;
+    float: left;
+    height: 2px;
+    left: 0;
+    position: absolute;
+    width: 99px;
+    z-index: 99;
+}
+.hr.hr-light .hr-inner:before {
+    background-color: #818B95;
+}
+.hr.hr-light .hr-inner:after {
+    background-color: #818B95;
+}
+.hr.hr-center {
+    margin: 0 auto 10px;
+}
+.hr-invisible, .hr-invisible .hr-inner {
+    border: medium none;
+    margin: 0;
+}
+.hr-full, .hr-big {
+    margin: 70px 0;
+}
+.hr-full .hr-inner {
+    left: -100%;
+    width: 300%;
+}
+.hr.hr-short {
+    margin-top: 0;
+    overflow: hidden;
+    width: 123px;
+}
+.hr.hr-mid {
+    margin: 0;
+    overflow: hidden;
+    width: 165px;
+}
+.hr-short .hr-inner {
+
+}
+.hr-short.hr-left .hr-inner {
+    left: 0;
+    margin-left: 0;
+}
+.hr-left .hr-inner:after {
+    background: none repeat scroll 0 0 #D7D7D7;
+    content: "";
+    display: block;
+    height: 2px;
+    left: 23px;
+    position: absolute;
+    width: 190px;
+    z-index: 21;
+}
+
+.hr-right .hr-inner {
+    left: auto;
+    margin-left: 0;
+    right: 0;
+}
+.hr-right .hr-inner:before {
+    background: none repeat scroll 0 0 #D7D7D7;
+    content: "";
+    display: block;
+    height: 2px;
+    position: absolute;
+    right: 23px;
+    width: 190px;
+    z-index: 99;
+}
+.hr-inner-style {
+    border-radius: 20px 20px 20px 20px;
+    border-style: solid;
+    border-width: 2px;
+    display: block;
+    height: 2px;
+    margin-left: 0;
+    margin-top: -2px;
+    position: absolute;
+    width: 17px;
+}
+.hr-center .hr-inner-style {
+    left: 50%;
+	    margin-left: -10px;
+		    margin-top: -2px;
+}
+.hr-short.hr-left .hr-inner-style {
+    left: 0;
+}
+.hr-short.hr-right .hr-inner-style {
+    left: auto;
+    right: 0;
+}
