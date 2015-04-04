@@ -121,7 +121,9 @@ h1.center {
 .logo {
     float: left;
     height: 100%;
-    margin-bottom: 40px; 
+    /* HFI : Correction du bug d'affichage du logo dans l'entête des pages 
+    margin-bottom: 40px;
+    */ 
 }
 .logo img {
     display: block;
