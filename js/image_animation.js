@@ -194,7 +194,7 @@ $.fn.themeapt_sc_initPieChart = function(options)
                     }
                 });
                jQuery('.percentage-light').easyPieChart({
-                    barColor: '#cc3333',
+                    barColor: '#af0100',
                     trackColor: '#5a5a5a',
                     scaleColor: false,
                     lineCap: 'butt',
