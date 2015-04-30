@@ -18,11 +18,13 @@ if(empty($_POST['name']) || empty($_POST['email']) || empty($_POST['subject']) |
 		'Reply-To: '.$email."\r\n" .
 		'X-Mailer: PHP/' . phpversion();
 	$subject = $subject;
-	$body='You have got a new message from the contact form on your website.'."\n\n";
-	$body.='Name: '.$name."\n";
-	$body.='Email: '.$email."\n";
-	
-	$body.='Message: '."\n".$message."\n";
+	$body='Bonjour l\'équipe Sparkline,'."\n\n";
+    $body.='Vous avez reçu un nouveau message depuis le formulaire de contact de votre site www.sparkline.fr.'."\n\n";
+    $body.='------------------------'."\n";
+	$body.='Nom : '.$name."\n";
+	$body.='Email : '.$email."\n";
+	$body.='Objet : '.$subject."\n";
+	$body.='Message : '."\n".$message."\n";
 			
 	if(mail($to, $subject, $body, $headers)) {
 		echo "success";
