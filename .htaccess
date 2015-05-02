@@ -1,0 +1,2 @@
+ErrorDocument 403 http://www.sparkline.fr/403.html
+ErrorDocument 404 http://www.sparkline.fr/404.html
