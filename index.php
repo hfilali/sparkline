@@ -84,13 +84,19 @@
                 <!-- <div class="blog blogin">
                     <!-- <a class="probtn com" href="#"><span class="icon-bubbles"></span></a> -->
                     <!-- <div class="quote"> -->
-                        <h1><span class="icon-bubbles"></span></h1>
+                        <!-- <h1><span class="icon-bubbles"></span></h1>
                         <h2><i>#Visiteur : </i>Qu'est-ce que Sparkline ?</h2>
                         <h2><span><i>#Sparkline</i></span> <i>:</i> Nous sommes un cabinet de recrutement spécialisé dans la Data Science et le Big Data.</h2>
                         <h2><i>#Visiteur : </i>Mais encore ?</h2>
-                        <h2><span><i>#Sparkline </i></span> <i>:</i> Notre approche du recrutement fait la différence : <b>la chasse de jobs.</b></h2>
-                        <p><a class="button purchase themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible top-to-bottom" href="chassedejobs.php">
-                        DECOUVREZ LA CHASSE DE JOBS</a></p>
+                        <h2><span><i>#Sparkline </i></span> <i>:</i> Notre approche du recrutement fait la différence : <b>la chasse de jobs.</b></h2> -->
+                        <div class="container">
+                            <h1>CABINET DE RECRUTEMENT SPECIALISE DANS LA <b>DATA SCIENCE</b> ET LE <b>BIG DATA</b></h1>
+                        </div>
+                        <div class="container">
+                            <p>
+                                <a class="button purchase themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible top-to-bottom" href="services.php">Voir nos services</a>
+                            </p>
+                        </div>
                     <!-- </div> -->
                 <!-- </div><!-- /.span4 -->
             </div>
@@ -120,8 +126,8 @@
                 <div class="client themeapt-gallery-thumb">
                     <ul>
                         <li>
-                            <a target="_blank" href="http://www.data-publica.com" class="bwWrapper featured ">
-                                <img src="images/clients/datapublica.jpg" alt="Data Publica">
+                            <a target="_blank" href="http://www.c-radar.com" class="bwWrapper featured ">
+                                <img src="images/clients/c-radar.png" alt="C-Radar">
                             </a>
                         </li>
 						<li>
@@ -130,22 +136,27 @@
                             </a>
                         </li>
 						<li>
-                            <a target="_blank" href="http://snips.net/" class="bwWrapper featured ">
+                            <a target="_blank" href="http://snips.net" class="bwWrapper featured ">
                                 <img src="images/clients/snips.png" alt=":snips">
                             </a>
                         </li>
 						<li>
-                            <a target="_blank" href="http://www.adomik.com" class="bwWrapper featured ">
-                                <img src="images/clients/adomik.jpeg" alt="Pumpkin">
+                            <a target="_blank" href="http://www.fortia.fr" class="bwWrapper featured ">
+                                <img src="images/clients/Fortia%20Financial%20Solutions.png" alt="Fortia Financial Solutions">
                             </a>
                         </li>
-						<li><a target="_blank" href="http://vigiglobe.com/" class="bwWrapper featured ">
-                            <img src="images/clients/vigiglobe.jpeg" alt="vigiglobe">
+						<li><a target="_blank" href="https://www.valeoservice.fr" class="bwWrapper featured ">
+                            <img src="images/clients/valeo%20service.png" alt="Valeo Service">
                             </a>
                         </li>
 						<li>
-                            <a target="_blank" href="http://www.textkernel.com/" class="bwWrapper featured ">
-                                <img src="images/clients/textkernel.jpeg" alt="TextKernel">
+                            <a target="_blank" href="http://www.mypasspro.com" class="bwWrapper featured ">
+                                <img src="images/clients/MyPassPro.png" alt="MyPassPro">
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="https://www.influans.com" class="bwWrapper featured ">
+                                <img src="images/clients/influans.png" alt="Influans">
                             </a>
                         </li>
                     </ul>
@@ -163,6 +174,10 @@
 </div>
 
 <?php include("includes/jsfiles.php"); ?>		
-		
+<!-- 12/03/17 : DASHBOARD ANALYTICS by Florent Defontis -->
+<script type="text/javascript" src="https://cdn.air360tracker.net/air360.min.js"></script>
+<script type="text/javascript">
+     Air360.init("paa3v08emtjbn59o");
+</script>		
 </body>
 </html>

@@ -1,7 +1,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Sparkline est un cabinet de recrutement sp&eacute;cialis&eacute; dans les m&eacute;tiers du Big Data et du Web. Notre approche fait la différence, la chasse de jobs : nous ciblons à partir des besoins de nos candidats les entreprises qui recrutent. Nos profils préférés : Data Scientist, Architecte Big Data, Développeurs Big Data, Web Développeurs, Mobile Développeurs.">
-<meta name="Keywords" content="sparkline, recrutement, conseil, web, informatique, Big Data, Data Scientist, Machine Learning, spécialiste, Ful Stack developer, recrutement informatique, data scientist, architecte big data, NoSQL, Hadoop, chasseurs de jobs, chasseurs de têtes, recruteurs, emploi, RH, CDI, Paris, France">
+<meta name="description" content="Sparkline est un cabinet de recrutement sp&eacute;cialis&eacute; dans la Data Science et le Big Data. Nos profils préférés : Data Scientist, Data Analyst, Architecte Big Data, Data Engineer, Développeur Business Intelligence, Manager Business Intelligence.">
+<meta name="Keywords" content="sparkline, recrutement, conseil, web, informatique, Data Science, Big Data, Data Scientist, Machine Learning, spécialiste, Full Stack developer, recrutement informatique, architecte big data, NoSQL, Hadoop, chasseurs de têtes, chasse de têtes, recruteurs, startup, start-up, emploi, RH, CDI, Paris, France">
 
 <!--Google Font -->
 <!-- title font-->

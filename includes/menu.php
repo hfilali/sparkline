@@ -28,7 +28,7 @@
             <!-- Responsive Navbar Part 1: Button for triggering responsive navbar (not covered in tutorial). Include responsive CSS to utilize. -->
 			<ul class="sf-menu color-m"> <!-- Menu color Class  "color-m"-->
                 <li><a href="index.php"><span class="icon-house"></span>Accueil</a></li>
-				<li><a href="chassedejobs.php"><span class="icon-target"></span>Chasse de jobs</a></li>
+				<li><a href="services.php"><span class="icon-target"></span>Services</a></li>
 				<li><a href="team.php"><span class="icon-users "></span>Equipe</a></li>
                 <li><a href="contact.php"><span class="icon-office "></span>Contact</a></li>
                 <!-- <li><a href="blog.html"><span class="icon-bubble"></span>Blog</a></li> -->

@@ -50,6 +50,10 @@
 </div>
 
 <?php include("includes/jsfiles.php"); ?>		
-		
+<!-- 12/03/17 : DASHBOARD ANALYTICS by Florent Defontis -->
+<script type="text/javascript" src="https://cdn.air360tracker.net/air360.min.js"></script>
+<script type="text/javascript">
+     Air360.init("paa3v08emtjbn59o");
+</script>		
 </body>
 </html>
