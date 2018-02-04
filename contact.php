@@ -61,30 +61,10 @@
             </div><!-- /.span8 -->
         </div><!-- /.row -->
     </div>
-</div><!-- /.col -->	
-
-    
-<!-- GOOGLE MAPS -->
-<div class="col-wrap"><!-- style col-shadow/ col-gray/ testimonial/-->
-    <div class="container ">
-        <!-- Three columns of text below the carousel -->
-        <div class="row-fluid"><!-- box-style row Class .box-style -->
-            <div class="span12 ">
-                <div id="LocationMap">
-                    <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/?ie=UTF8&amp;ll=48.8748245,2.3207715&amp;spn=48.8748245,2.3207715&amp;t=m&amp;z=14&amp;output=embed"></iframe>
-				</div>
-            </div><!-- /.span4 -->
-        </div><!-- /.row -->
-    </div>
-</div><!-- /.col -->	
-
-
+</div><!-- /.col -->
 <?php include("includes/footer.php"); ?>		
-	
 </section>
-	
 </div>
-
 <?php include("includes/jsfiles.php"); ?>		
 <!-- 12/03/17 : DASHBOARD ANALYTICS by Florent Defontis -->
 <script type="text/javascript" src="https://cdn.air360tracker.net/air360.min.js"></script>

@@ -126,37 +126,37 @@
                 <div class="client themeapt-gallery-thumb">
                     <ul>
                         <li>
-                            <a target="_blank" href="http://www.c-radar.com" class="bwWrapper featured ">
-                                <img src="images/clients/c-radar.png" alt="C-Radar">
-                            </a>
-                        </li>
-						<li>
-                            <a target="_blank" href="http://www.octo.com" class="bwWrapper featured ">
-                                <img src="images/clients/octo.jpg" alt="OCTO Technology">
-                            </a>
-                        </li>
-						<li>
-                            <a target="_blank" href="http://snips.net" class="bwWrapper featured ">
-                                <img src="images/clients/snips.png" alt=":snips">
-                            </a>
-                        </li>
-						<li>
-                            <a target="_blank" href="http://www.fortia.fr" class="bwWrapper featured ">
-                                <img src="images/clients/Fortia%20Financial%20Solutions.png" alt="Fortia Financial Solutions">
-                            </a>
-                        </li>
-						<li><a target="_blank" href="https://www.valeoservice.fr" class="bwWrapper featured ">
-                            <img src="images/clients/valeo%20service.png" alt="Valeo Service">
-                            </a>
-                        </li>
-						<li>
-                            <a target="_blank" href="http://www.mypasspro.com" class="bwWrapper featured ">
-                                <img src="images/clients/MyPassPro.png" alt="MyPassPro">
+                            <a target="_blank" href="https://clustaar.com" class="bwWrapper featured ">
+                                <img src="images/clients/clustaar.png" alt="Clustaar">
                             </a>
                         </li>
                         <li>
-                            <a target="_blank" href="https://www.influans.com" class="bwWrapper featured ">
-                                <img src="images/clients/influans.png" alt="Influans">
+                            <a target="_blank" href="http://www.fortia.fr" class="bwWrapper featured ">
+                                <img src="images/clients/fortia.png" alt="Fortia Financial Services">
+                            </a>
+                        </li>
+						<li><a target="_blank" href="https://ividata.com" class="bwWrapper featured ">
+                                <img src="images/clients/ividata.png" alt="IVIDATA">
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="http://www.octo.com" class="bwWrapper featured ">
+                                <img src="images/clients/octo.png" alt="Octo Technology">
+                            </a>
+                        </li>
+						<li>
+                            <a target="_blank" href="https://www.prestashop.com" class="bwWrapper featured ">
+                                <img src="images/clients/prestashop.png" alt="Prestashop">
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="https://snips.ai" class="bwWrapper featured ">
+                                <img src="images/clients/snips.png" alt="Snips">
+                            </a>
+                        </li>                       
+                        <li>
+                            <a target="_blank" href="https://wizdeo.com" class="bwWrapper featured ">
+                                <img src="images/clients/wizdeo.png" alt="Wizdeo">
                             </a>
                         </li>
                     </ul>

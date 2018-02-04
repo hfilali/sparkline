@@ -39,13 +39,13 @@
                 <div class="team services animationBegin">
                     <div class="team-img">
                         <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible left-to-right' src="images/team/elinore-thomas.png" alt="Elinore Thomas">
-                        <div class="t_hover">
-                            <p>Diplômée en 2008 d’un Master de Mathématiques Appliquées, j'ai commencé comme consultante en informatique scientifique. J'ai ensuite travaillé comme ingénieur commercial en cabinet de conseil IT avant de créer Sparkline.</p>
-                        </div>				 
+                        <!-- <div class="t_hover">
+                            <p>Diplômée en 2008 d’un Master en Mathématiques Appliquées, j'ai commencé comme consultante en informatique scientifique. J'ai ensuite travaillé comme ingénieur commercial en cabinet de conseil IT avant de créer Sparkline.</p>
+                        </div> -->				 
 				    </div>
                     <div class="team-data">
-                        <h2>Elinore Thomas <span class="icon-bubble"></span></h2>
-                        <p>Co-fondateur | Consultant recrutement</p>
+                        <h2>Elinore Thomas</h2>
+                        <p>Co-fondateur | CEO</p>
 				    </div>
                     <div class="team-sr">
                         <ul>
@@ -63,13 +63,10 @@
                 <div class="team services animationBegin">
                     <div class="team-img">
                         <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible right-to-left' src="images/team/hadil-filali.png" alt="Hadil Filali">
-                        <div class="t_hover">
-                            <p>Diplômé d’un Master en Informatique en 2002 et d’un MBA à la Sorbonne en 2012, j'ai travaillé pendant 9 ans dans le développement d'applications Java/J2E. J'ai ensuite été ingénieur commercial en cabinet de conseil IT avant de créer Sparkline.</p>
-                        </div>
                     </div>
                     <div class="team-data">
-                        <h2>Hadil Filali <span class="icon-bubble"></span></h2>
-                        <p>Co-fondateur | Consultant recrutement</p>
+                        <h2>Hadil Filali</h2>
+                        <p>Co-fondateur | COO & Recruteur</p>
                     </div>
                     <div class="team-sr">
                         <ul>
@@ -82,19 +79,55 @@
                     </div>
                 </div><!-- /team-item -->
             </div><!-- /.span4 -->		
-        
+            <!-- Daniel Mahe -->
+            <div class="span4">
+                <div class="team services animationBegin">
+                    <div class="team-img">
+                        <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible right-to-left' src="images/team/daniel_mahe.png" alt="Daniel Mahé">
+                    </div>
+                    <div class="team-data">
+                        <h2>Daniel Mahé</h2>
+                        <p>Consultant | Big Data Recruteur</p>
+                    </div>
+                    <div class="team-sr">
+                        <ul>
+                            <li><a target="_blank" href="mailto:daniel.mahe@sparkline.fr"  rel="mail"><span class="icon-mail"></a></li>
+                            <li><a target="_blank" href="https://www.linkedin.com/in/danielmahe"  rel="linkedin"><span class="icon-linkedin"></a></li>
+                            <li><a target="_blank" href="https://twitter.com/sparklinetalks"  rel="twitter"><span class="icon-twitter"></a></li>
+                        </ul>
+                        <div class="clear"></div>
+                    </div>
+                </div><!-- /team-item -->
+            </div><!-- /.span4 -->
+            <!-- Gilles -->
+            <div class="span4">
+                <div class="team services animationBegin">
+                    <div class="team-img">
+                        <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible bottom-to-top' src="images/team/gilles-moyse.png" alt="Gilles Moyse">
+                    </div>
+                    <div class="team-data">
+                        <h2>Gilles Moyses, PhD</h2>
+                        <p>Expert technique | Data Science</p>
+                    </div>
+                    <div class="team-sr">
+                        <ul>
+                            <li><a target="_blank" href="https://fr.linkedin.com/in/GillesMoyse"  rel="linkedin"><span class="icon-linkedin"></a></li>
+                            <li><a target="_blank" href="https://www.researchgate.net/profile/Gilles_Moyse"  rel="Researchgate"><span class="icon-home"></a></li>
+                            <li><a target="_blank" href="https://recital.ai"  rel="Recital.ai"><span class="icon-home"></a></li>
+                        </ul>
+                        <div class="clear"></div>
+                    </div>
+                </div><!-- /team-item -->
+            </div><!-- /.span4 -->
             <!-- Loîc -->
             <div class="span4">
                 <div class="team services animationBegin">
                     <div class="team-img">
                         <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible right-to-left' src="images/team/loic-knuchel.png" alt="Loïc Knuchel">
-                        <div class="t_hover">
-                            <p>Après un rapide passage en SSII, j'ai lancé plusieurs startups (Cookers, SalooN). Passionné du développement, j'organise les  HumanTalks Paris et des Workshops sur Ionic. Mes technos de prédilection : Scala, Play Framework, Angular, Ionic Framework.</p>
-                        </div>
                     </div>
                     <div class="team-data">
-                        <h2>Loïc<span class="icon-bubble"></span></h2>
-                        <p>Expert | Web & Mobile Developement</p>
+                        <h2>Loïc Knuchel</h2>
+                        <p>Expert technique | Software Engineering</p>
                     </div>
                     <div class="team-sr">
                         <ul>
@@ -106,43 +139,16 @@
                         <div class="clear"></div>
                     </div>
                 </div><!-- /team-item -->
-            </div><!-- /.span4 -->
-            
-            <!-- Gilles -->
-            <div class="span4">
-                <div class="team services animationBegin">
-                    <div class="team-img">
-                        <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible bottom-to-top' src="images/team/gilles-moyse.png" alt="Gilles Moyse">
-                        <div class="t_hover">
-                            <p>Avec plus de 10 ans d'expérience dans l'industrie, le service et le monde académique, je travaille avec Sparkline sur l'évaluation des candidats aux profils Data Mining et Machine Learning.</p>
-                        </div>
-                    </div>
-                    <div class="team-data">
-                        <h2>Gilles<span class="icon-bubble"></span></h2>
-                        <p>Expert | Data Science</p>
-                    </div>
-                    <div class="team-sr">
-                        <ul>
-                            <li><a target="_blank" href="https://fr.linkedin.com/in/GillesMoyse"  rel="linkedin"><span class="icon-linkedin"></a></li>
-                            <li><a target="_blank" href="https://www.researchgate.net/profile/Gilles_Moyse"  rel="linkedin"><span class="icon-home"></a></li>
-                        </ul>
-                        <div class="clear"></div>
-                    </div>
-                </div><!-- /team-item -->
-            </div><!-- /.span4 -->		
-            
+            </div><!-- /.span4 -->            
             <!-- Prosper -->
             <div class="span4">
                 <div class="team services animationBegin">
                     <div class="team-img">
                         <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible bottom-to-top' src="images/team/prosper-burq.png" alt="Prosper Burq">
-                        <div class="t_hover">
-                            <p>Suite à un passage dans le monde de la banque, je travaille actuellement dans le monde académique en tant qu'ingénieur big data. Mon activité principale consiste à monter des clusters big data et à déployer des algorithmes de machine learning distribués.</p>
-                        </div>
                     </div>
                     <div class="team-data">
-                        <h2>Prosper<span class="icon-bubble"></span></h2>
-                        <p>Expert | Architecture Big Data</p>
+                        <h2>Prosper Burq</h2>
+                        <p>Expert technique | Architecture Big Data</p>
                     </div>
                     <div class="team-sr">
                         <ul>
@@ -151,42 +157,13 @@
                         <div class="clear"></div>
                     </div>
                 </div><!-- /team-item -->
-            </div><!-- /.span4 -->
-
-            <!-- Pierre -->
-            <div class="span4">
-                <div class="team services animationBegin">
-                    <div class="team-img">
-                        <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible bottom-to-top' src="images/team/pierre-warnier.png" alt="Pierre Warnier">
-                        <div class="t_hover">
-                            <p>INTJ. Master en Data Science. Mes 8 ans d’expérience en enseignement, support, IT, recherche publique et privée me confèrent un savoir horizontal étendu bien utile dans le recrutement.<br>
-                            Spécialités: Data Science, Machine Learning, Natural Language Processing, profils atypiques..</p>
-                        </div>
-                    </div>
-                    <div class="team-data">
-                        <h2>Pierre<span class="icon-bubble"></span></h2>
-                        <p>Expert | Data Science</p>
-                    </div>
-                    <div class="team-sr">
-                        <ul>
-                            <li><a target="_blank" href="https://www.linkedin.com/in/warnier"  rel="linkedin"><span class="icon-linkedin"></a></li>
-                        </ul>
-                        <div class="clear"></div>
-                    </div>
-                </div><!-- /team-item -->
-            </div><!-- /.span4 -->
-            
+            </div><!-- /.span4 -->            
         </div><!-- /.row -->			 
     </div><!-- /.container -->
 </div><!-- /.col -->	
-
-
-<?php include("includes/footer.php"); ?>		
-	
-</section>
-	
+<?php include("includes/footer.php"); ?>
+</section>	
 </div>
-
 <?php include("includes/jsfiles.php"); ?>		
 <!-- 12/03/17 : DASHBOARD ANALYTICS by Florent Defontis -->
 <script type="text/javascript" src="https://cdn.air360tracker.net/air360.min.js"></script>
