@@ -5,11 +5,9 @@
 <?php include("includes/header.php"); ?>
 </head>        
 <body>
-
 <div id="boxed">
 <section>	
-<?php include("includes/menu.php"); ?>
-    
+<?php include("includes/menu.php"); ?>    
 <!-- SLIDES -->
 <!-- Carousel Slider
 ================================================== -->
@@ -81,24 +79,14 @@
         <!-- Two columns of text below the Box -->
         <div class="row-fluid"><!-- box-style row Class .box-style -->
             <div class="span12 themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible left-to-right">
-                <!-- <div class="blog blogin">
-                    <!-- <a class="probtn com" href="#"><span class="icon-bubbles"></span></a> -->
-                    <!-- <div class="quote"> -->
-                        <!-- <h1><span class="icon-bubbles"></span></h1>
-                        <h2><i>#Visiteur : </i>Qu'est-ce que Sparkline ?</h2>
-                        <h2><span><i>#Sparkline</i></span> <i>:</i> Nous sommes un cabinet de recrutement spécialisé dans la Data Science et le Big Data.</h2>
-                        <h2><i>#Visiteur : </i>Mais encore ?</h2>
-                        <h2><span><i>#Sparkline </i></span> <i>:</i> Notre approche du recrutement fait la différence : <b>la chasse de jobs.</b></h2> -->
-                        <div class="container">
-                            <h1>CABINET DE RECRUTEMENT SPECIALISE DANS LA <b>DATA SCIENCE</b> ET LE <b>BIG DATA</b></h1>
-                        </div>
-                        <div class="container">
-                            <p>
-                                <a class="button purchase themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible top-to-bottom" href="services.php">Voir nos services</a>
-                            </p>
-                        </div>
-                    <!-- </div> -->
-                <!-- </div><!-- /.span4 -->
+                <div class="container">
+                    <h1>CABINET DE RECRUTEMENT SPECIALISE DANS LA <b>DATA SCIENCE</b> ET LE <b>BIG DATA</b></h1>
+                </div>
+                <div class="container">
+                    <p>
+                        <a class="button purchase themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible top-to-bottom" href="services.php">Voir nos services</a>
+                    </p>
+                </div>
             </div>
         </div>
     </div>
@@ -167,12 +155,9 @@
 </div><!-- /.col -->	
 <!-- FIN LISTE CLIENTS --> 
 
-<?php include("includes/footer.php"); ?>		
-	
-</section>
-	
+<?php include("includes/footer.php"); ?>	
+</section>	
 </div>
-
 <?php include("includes/jsfiles.php"); ?>		
 <!-- 12/03/17 : DASHBOARD ANALYTICS by Florent Defontis -->
 <script type="text/javascript" src="https://cdn.air360tracker.net/air360.min.js"></script>

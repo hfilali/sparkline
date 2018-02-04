@@ -107,7 +107,7 @@
                     </div>
                     <div class="team-data">
                         <h2>Gilles Moyses, PhD</h2>
-                        <p>Expert technique | Data Science</p>
+                        <p>Expert technique | AI & Data Science</p>
                     </div>
                     <div class="team-sr">
                         <ul>
