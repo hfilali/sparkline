@@ -1482,20 +1482,20 @@ margin-left:-32px;
 }
  /* ---------------------------  Inner page       ------------------ */
 .title-bar {
-    background: url("..//images/title-bg.png") no-repeat scroll 0 0 transparent;
+    background: url("../images/title-bg.png") no-repeat scroll 0 0 transparent;
     padding: 23px 0;
 }
-.t-shadow{    background: url("..//images/title-shadow.png") no-repeat scroll center 0 transparent;}
+.t-shadow{    background: url("../images/title-shadow.png") no-repeat scroll center 0 transparent;}
 .t-gray {
-    background: url("..//images/title-shadow.png") no-repeat scroll center 0 #57616A;
+    background: url("../images/title-shadow.png") no-repeat scroll center 0 #57616A;
     padding: 20px 0;
 }
 .t-gray2 {
-    background: url("..//images/title-shadow.png") no-repeat scroll center 0 #2A323A ;
+    background: url("../images/title-shadow.png") no-repeat scroll center 0 #2A323A ;
     padding: 20px 0;
 }
 .tbg-2 {
-    background: url("..//images/title-bg2.png") no-repeat scroll center 0 #57616A;
+    background: url("../images/title-bg2.png") no-repeat scroll center 0 #57616A;
     padding: 20px 0;
 }
 .title-bar {
