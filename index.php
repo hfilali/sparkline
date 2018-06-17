@@ -20,52 +20,41 @@
                 <!-- FIRST SLIDE -->
 				<li data-transition="3dcurtain-vertical" data-slotamount="10" data-masterspeed="300" data-thumb="images/thumbs/thumb1.jpg">
 				    <!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
-				    <img src="images/slides/sparkline_white_bgd.png" alt="" title="">
+				    <img src="images/slides/sparkline_human_finders_white_background.png" alt="" title="">
                     <!-- THE CAPTIONS IN THIS SLIDE -->
-				    <div class="caption randomrotate" data-x="-220" data-y="0" data-speed="600" data-start="1000" data-easing="easeOutExpo">
-                        <img src="images/slides/sparkline_background.png" alt="sparkline recruitment" title="Sparkline recruitment">
+                    <div class="caption randomrotate" data-x="300" data-y="220" data-speed="600" data-start="2000" data-easing="easeOutExpo">
+                        <img src="images/slides/RECRUITMENT.png" alt="RECRUITMENT" title="RECRUITMENT">
                     </div>
-                    <div class="caption randomrotate" data-x="300" data-y="150" data-speed="600" data-start="3000" data-easing="easeOutExpo">
-                        <img src="images/slides/We-Are.png" alt="We Are" title="We Are">
-                    </div>                        
-                    <div class="caption randomrotate" data-x="300" data-y="220" data-speed="600" data-start="4000" data-easing="easeOutExpo">
-                        <img src="images/slides/sparkline_human_finders.png" alt="sparkline, human finders" title="Sparkline, Human Finders">
+                    <div class="caption randomrotate" data-x="500" data-y="60" data-speed="600" data-start="2500" data-easing="easeOutExpo">
+                        <img src="images/slides/DATA%20SCIENCE.png" alt="DATA SCIENCE" title="DATA SCIENCE">
+                    </div>
+                    <div class="caption randomrotate" data-x="200" data-y="400" data-speed="600" data-start="3000" data-easing="easeOutExpo">
+                        <img src="images/slides/BIG%20DATA.png" alt="BIG DATA" title="BIG DATA">
+                    </div>
+                    <div class="caption randomrotate" data-x="30" data-y="130" data-speed="600" data-start="3500" data-easing="easeOutExpo">
+                        <img src="images/slides/MACHINE%20LEARNING.png" alt="MACHINE LEARNING" title="MACHINE LEARNING">
+                    </div>
+                    <div class="caption randomrotate" data-x="480" data-y="330" data-speed="600" data-start="4000" data-easing="easeOutExpo">
+                        <img src="images/slides/DEEP%20LEARNING.png" alt="DEEP LEARNING" title="DEEP LEARNING">
+                    </div>
+                    <div class="caption randomrotate" data-x="180" data-y="300" data-speed="600" data-start="4500" data-easing="easeOutExpo">
+                        <img src="images/slides/AI.png" alt="AI" title="AI">
                     </div>
                 </li>
                     
                 <!-- SECOND SLIDE -->
 				<li data-transition="3dcurtain-vertical" data-slotamount="10" data-masterspeed="300" data-thumb="images/thumbs/thumb1.jpg">
-				    <!-- THE MAIN IMAGE IN THE FIRST SLIDE 
-				    <img src="images/slides/00_47.png" alt="image" title="Image"> -->
-
-				    <!-- THE MAIN IMAGE IN THE FIRST SLIDE 
-				    <img src="images/slides/sparkline_fonds_01.png" alt="image" title="sparkline recruitment"> -->
+				    <!-- THE MAIN IMAGE IN THE SECOND SLIDE -->
+				    <img src="images/slides/sparkline_human_finders_keywords_background.png" alt="sparkline human finders" title="sparkline human finders"> -->
                     <!-- THE CAPTIONS IN THIS SLIDE -->
-					<div class="caption randomrotate" data-x="-220" data-y="0" data-speed="600" data-start="1000" data-easing="easeOutExpo">
-                        <img src="images/slides/sparkline_background.png" alt="sparkline recruitment" title="Sparkline recruitment">
+					<div class="caption randomrotate" data-x="120" data-y="210" data-speed="600" data-start="2000" data-easing="easeOutExpo">
+                        <img src="images/slides/sparkline%20logo.png" alt="Sparkline logo" title="Sparkline Logo">
                     </div>
-                    <div class="caption randomrotate" data-x="350" data-y="100" data-speed="600" data-start="2000" data-easing="easeOutExpo">
-                        <img src="images/slides/Candidate.png" alt="Candidate" title="Candidate">
-                    </div>
-                    <div class="caption randomrotate" data-x="280" data-y="170" data-speed="600" data-start="2500" data-easing="easeOutExpo">
-                        <img src="images/slides/sparkline_tagline_candidate.png" alt="Let's sparkle your career" title="Let's sparkle your career">
-                    </div>
-                    <div class="caption sfb size50 common_color defult_fonts slider_content" data-x="360" data-y="270" data-speed="600" data-start="3000" data-easing="easeOutExpo">
-                        <img src="images/slides/Recruiter.png" alt="Recruiter" title="Recruiter">
-                    </div>
-                    <div class="caption randomrotate" data-x="280" data-y="350" data-speed="600" data-start="3500" data-easing="easeOutExpo">
-                        <img src="images/slides/sparkline_tagline_business.png" alt="Make your business sparkle with sparkly preople" title="make your business sparkle with sparkly people"></div>
-				</li>
-                
-                <!-- THIRD SLIDE -->
-				<li data-transition="3dcurtain-vertical" data-slotamount="10" data-masterspeed="300" data-thumb="images/thumbs/thumb1.jpg">
-				    <div class="caption randomrotate" data-x="-220" data-y="0" data-speed="600" data-start="1000" data-easing="easeOutExpo">
-                        <img src="images/slides/sparkline_red_bgd.png" alt="big data" title="Sparkline, recruitment for data-driven companies">
-                    </div>
-                    <div class="caption randomrotate" data-x="50" data-y="0" data-speed="600" data-start="2000" data-easing="easeOutExpo">
-                        <img src="images/slides/bigdata-keywords.png" alt="Big Data keywords" title="Big Data Keywords">
+                    <div class="caption randomrotate" data-x="510" data-y="135" data-speed="600" data-start="2750" data-easing="easeOutExpo">
+                        <img src="images/slides/sparkline%20networking.png" alt="sparkline networking" title="sparkline networking">
                     </div>
 				</li>
+               
             </ul>
             <!-- <div class="tp-bannertimer"></div> -->
         </div>
@@ -80,7 +69,7 @@
         <div class="row-fluid"><!-- box-style row Class .box-style -->
             <div class="span12 themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible left-to-right">
                 <div class="container">
-                    <h1>CABINET DE RECRUTEMENT SPECIALISE DANS LA <b>DATA SCIENCE</b> ET LE <b>BIG DATA</b></h1>
+                    <h1>CABINET DE RECRUTEMENT SPECIALISE <b>DATA SCIENCE</b> ET <b>BIG DATA</b></h1>
                 </div>
                 <div class="container">
                     <p>
@@ -123,8 +112,8 @@
                                 <img src="images/clients/fortia.png" alt="Fortia Financial Services">
                             </a>
                         </li>
-						<li><a target="_blank" href="https://ividata.com" class="bwWrapper featured ">
-                                <img src="images/clients/ividata.png" alt="IVIDATA">
+						<li><a target="_blank" href="https://www.direct-energie.com" class="bwWrapper featured ">
+                                <img src="images/clients/direct%20energie.png" alt="Direct Energie">
                             </a>
                         </li>
                         <li>
@@ -133,8 +122,8 @@
                             </a>
                         </li>
 						<li>
-                            <a target="_blank" href="https://www.prestashop.com" class="bwWrapper featured ">
-                                <img src="images/clients/prestashop.png" alt="Prestashop">
+                            <a target="_blank" href="https://www.verisure.fr" class="bwWrapper featured ">
+                                <img src="images/clients/verisure.png" alt="Verisure">
                             </a>
                         </li>
                         <li>
@@ -154,6 +143,8 @@
     </div><!-- /.container -->
 </div><!-- /.col -->	
 <!-- FIN LISTE CLIENTS --> 
+    
+
 
 <?php include("includes/footer.php"); ?>	
 </section>	

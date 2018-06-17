@@ -43,3 +43,5 @@
 
 <!--pie-chart-->
 <link rel='stylesheet' type='text/css' media='screen' href='css/jquery.easy-pie-chart.css'/>
+
+<link rel="icon" type="image/x-icon" href="../images/favicon.ico" /><link rel="shortcut icon" type="image/x-icon" href="../images/favicon.ico" />

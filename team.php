@@ -24,7 +24,7 @@
 <!-- LES FONDATEURS -->
 <div class="col-wrap col-shadow"><!-- style col-shadow/ col-gray/ bg/ testimonial/-->
 	<div class="container ">
-        <h1>L'équipe Sparkline</h1>	
+        <h1>Qui sommes-nous ...</h1>	
         <!--   hr-Start-->	
 		<div class="hr hr-left hr-short"> <!--   hr-center/ hr-left/ hr-right/  hr-short/ hr-light/-->
             <span class="hr-inner">
@@ -79,41 +79,41 @@
                     </div>
                 </div><!-- /team-item -->
             </div><!-- /.span4 -->		
-            <!-- Daniel Mahe -->
+            <!-- Amélie Arnaud -->
             <div class="span4">
                 <div class="team services animationBegin">
                     <div class="team-img">
-                        <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible right-to-left' src="images/team/daniel_mahe.png" alt="Daniel Mahé">
+                        <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible right-to-left' src="images/team/amelie-arnaud.png" alt="Amélie Arnaud">
                     </div>
                     <div class="team-data">
-                        <h2>Daniel Mahé</h2>
-                        <p>Consultant | Big Data Recruteur</p>
+                        <h2>Amélie Arnaud</h2>
+                        <p>Consultante | Big Data Recruteur</p>
                     </div>
                     <div class="team-sr">
                         <ul>
-                            <li><a target="_blank" href="mailto:daniel.mahe@sparkline.fr"  rel="mail"><span class="icon-mail"></a></li>
-                            <li><a target="_blank" href="https://www.linkedin.com/in/danielmahe"  rel="linkedin"><span class="icon-linkedin"></a></li>
-                            <li><a target="_blank" href="https://twitter.com/sparklinetalks"  rel="twitter"><span class="icon-twitter"></a></li>
+                            <li><a target="_blank" href="mailto:amelie.arnaud@sparkline.fr"  rel="mail"><span class="icon-mail"></a></li>
+                            <li><a target="_blank" href="https://www.linkedin.com/in/am%C3%A9liearnaud/"  rel="linkedin"><span class="icon-linkedin"></a></li>
+                            <li><a target="_blank" href="https://twitter.com/amelie_arnaud"  rel="twitter"><span class="icon-twitter"></a></li>
                         </ul>
                         <div class="clear"></div>
                     </div>
                 </div><!-- /team-item -->
             </div><!-- /.span4 -->
-            <!-- Gilles -->
+            <!-- Tanmoy Das -->
             <div class="span4">
                 <div class="team services animationBegin">
                     <div class="team-img">
-                        <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible bottom-to-top' src="images/team/gilles-moyse.png" alt="Gilles Moyse">
+                        <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible right-to-left' src="images/team/tanmoy-das.png" alt="Tanmoy Das">
                     </div>
                     <div class="team-data">
-                        <h2>Gilles Moyses, PhD</h2>
-                        <p>Expert technique | AI & Data Science</p>
+                        <h2>Tanmoy Das</h2>
+                        <p>Consultant | Big Data Recruteur</p>
                     </div>
                     <div class="team-sr">
                         <ul>
-                            <li><a target="_blank" href="https://fr.linkedin.com/in/GillesMoyse"  rel="linkedin"><span class="icon-linkedin"></a></li>
-                            <li><a target="_blank" href="https://www.researchgate.net/profile/Gilles_Moyse"  rel="Researchgate"><span class="icon-home"></a></li>
-                            <li><a target="_blank" href="https://recital.ai"  rel="Recital.ai"><span class="icon-home"></a></li>
+                            <li><a target="_blank" href="mailto:tanmoy.das@sparkline.fr"  rel="mail"><span class="icon-mail"></a></li>
+                            <li><a target="_blank" href="https://www.linkedin.com/in/tanmoy-das-993576ab/"  rel="linkedin"><span class="icon-linkedin"></a></li>
+                            <li><a target="_blank" href="https://twitter.com/sparklinetalks"  rel="twitter"><span class="icon-twitter"></a></li>
                         </ul>
                         <div class="clear"></div>
                     </div>
@@ -127,7 +127,7 @@
                     </div>
                     <div class="team-data">
                         <h2>Loïc Knuchel</h2>
-                        <p>Expert technique | Software Engineering</p>
+                        <p>Technical expert | Software Engineering</p>
                     </div>
                     <div class="team-sr">
                         <ul>
@@ -148,7 +148,7 @@
                     </div>
                     <div class="team-data">
                         <h2>Prosper Burq</h2>
-                        <p>Expert technique | Architecture Big Data</p>
+                        <p>Technical expert | Architecture Big Data</p>
                     </div>
                     <div class="team-sr">
                         <ul>

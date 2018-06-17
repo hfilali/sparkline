@@ -5,7 +5,7 @@
     <div class="container">
         <!-- LOGO -->
         <div class="logo">
-            <a class="brand" href="index.php"><img src="../images/logo_sparkline.png" alt="logo sparkline"/></a>
+            <a class="brand" href="index.php"><img src="../images/sparkline_human_finders.png" alt="logo sparkline"/></a>
         </div>						
         
         <!-- SUIVEZ-NOUS SUR LES RESEAUX SOCIAUX-->

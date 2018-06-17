@@ -5,103 +5,103 @@
 #portfolio_hover li .hover,
 #portfolio_hover li:hover
 .portfolio_item .hover,.follower a.sr:hover {
-    background: none repeat scroll 0 0 #af0100;
+    background: none repeat scroll 0 0 #fe0000;
 }
  
  .box-style:hover,.connect .follower a:hover  {
-    border-color: #af0100;
+    border-color: #fe0000;
 }
 
 .box-style:hover .btn-white {
-    background: none repeat scroll 0 0 #af0100;
-	border-color: #af0100;
+    background: none repeat scroll 0 0 #fe0000;
+	border-color: #fe0000;
 }
 
 [class*="span"] .box-style:hover span:after{
-    color: #af0100;
+    color: #fe0000;
 }
 
 .small-slider .carousel-caption h1 span, .portfolio:hover h2,.portfolio .hover span, .bg-color  {
-    background: none repeat scroll 0 0 #af0100;
+    background: none repeat scroll 0 0 #fe0000;
 }
 
 .blog h2 a:hover, .team-data h2:hover span, .ui-tabs .ui-tabs-nav li.ui-tabs-active a,.ui-tabs .ui-tabs-nav li.ui-tabs-active span, .tabs h2, .color,.footerbox span.color{
-    color: #af0100;
+    color: #fe0000;
 }
 
 .likebtn a.l-btn:hover, #accordion_os .ui-state-active .ui-accordion-header-icon, .accordion_op .ui-accordion-header.ui-state-active .ui-accordion-header-icon{
-    background-color: #af0100;
+    background-color: #fe0000;
 }
 
 .prev2 a:hover, .next2 a:hover {
-    background: none repeat scroll 0 0 #af0100;
+    background: none repeat scroll 0 0 #fe0000;
 }
 
 .nav-btn a.activeSlide, .team-data h2:hover span,.accordion_op .ui-accordion-header.ui-state-active:before, .accordion_op .ui-accordion-content.ui-accordion-content-active, .accordion_op .ui-accordion-header.ui-state-active  {
-    border-color: #af0100;
+    border-color: #fe0000;
 }	
 
 .team-sr:hover {
-	background: none repeat scroll 0 0 #af0100;
-	border: 1px solid #af0100;
+	background: none repeat scroll 0 0 #fe0000;
+	border: 1px solid #fe0000;
 }	
 
 .team-sr li a:hover {
-    border-color: #af0100;
+    border-color: #fe0000;
 }
 .team-sr li a:hover span {
-    color: #af0100;
+    color: #fe0000;
 }
 
 .service2:hover{
-    background: none repeat scroll 0 0 #af0100;	
+    background: none repeat scroll 0 0 #fe0000;	
 }
 
 .service2:hover{
-   border-color: #af0100;	
+   border-color: #fe0000;	
 }
 
 .service_box_arrow:hover .arrow_box:after  {
-  border-color: rgba(227, 229, 231, 0) rgba(227, 229, 231, 0) rgba(227, 229, 231, 0) #af0100;
+  border-color: rgba(227, 229, 231, 0) rgba(227, 229, 231, 0) rgba(227, 229, 231, 0) #fe0000;
 }
 
 .angle h2 span {
-    color: #af0100;
+    color: #fe0000;
 }   
 
 .p404 h1 {
-    color: #af0100;
+    color: #fe0000;
 }
 
 .s_need ul li:before {
-    color: #af0100;
+    color: #fe0000;
 }
 
 .s_need ul li a:hover {
-    color: #af0100;
+    color: #fe0000;
 }
 
 .date-list ul li a:hover {
-    color: #af0100;
+    color: #fe0000;
 }
 
 .pagenavi li a:hover {
-    background: none repeat scroll 0 0 #af0100;
+    background: none repeat scroll 0 0 #fe0000;
 }
 
 .pagenavi li a:hover {
-    border-color: #af0100;
+    border-color: #fe0000;
 }
 
 .active{
-    background: none repeat scroll 0 0 #af0100;
-    border-color: #af0100;
+    background: none repeat scroll 0 0 #fe0000;
+    border-color: #fe0000;
 }
 
 .p-nav ul li:hover:before {
-    background: none repeat scroll 0 0 #af0100;
-	border-bottom: 1px solid #af0100;
-    border-right: 1px solid #af0100;
+    background: none repeat scroll 0 0 #fe0000;
+	border-bottom: 1px solid #fe0000;
+    border-right: 1px solid #fe0000;
 }	
 
  .p-nav ul li a.active{
@@ -109,97 +109,97 @@
  }
 
 .p-nav ul li a.active:before {
-    background: none repeat scroll 0 0 #af0100;
-    border-bottom: 1px solid #af0100;
-    border-right: 1px solid #af0100;
+    background: none repeat scroll 0 0 #fe0000;
+    border-bottom: 1px solid #fe0000;
+    border-right: 1px solid #fe0000;
 }   
 
 .probtn:hover {
-    background: none repeat scroll 0 0 #af0100;
-	border-color: #af0100;
+    background: none repeat scroll 0 0 #fe0000;
+	border-color: #fe0000;
 }	
 
 .widget ul li:hover {
-    border-color: #af0100;
+    border-color: #fe0000;
 }
 
 .widget ul li:hover a {
-    color: #af0100;
+    color: #fe0000;
 }
 
 .tag a:hover {
-    background: none repeat scroll 0 0 #af0100;
-	border-color: #af0100;
+    background: none repeat scroll 0 0 #fe0000;
+	border-color: #fe0000;
 }	
 
 .home-now {
-    background-color: #af0100;
+    background-color: #fe0000;
 }
 
 .fbox ul li:hover {
-    border-bottom: 2px solid #af0100;
+    border-bottom: 2px solid #fe0000;
 }
 
 .fbox ul li a:hover {
-    color: #af0100;
+    color: #fe0000;
 }
 
 .v-green {
-    border-color: #af0100;
+    border-color: #fe0000;
 }
-.flickr ul li:hover{    border-color: #af0100;}
+.flickr ul li:hover{    border-color: #fe0000;}
 
 .p404 h1 {
-    color: #af0100;
+    color: #fe0000;
 }	
 
 .skillset .skill_set_item .progress-bar .progress-bar-content{
-	background: none repeat scroll 0 0 #af0100;
+	background: none repeat scroll 0 0 #fe0000;
 }
 
 .color,#main-menu ul li ul li a:hover, #menu ul li ul li.current-menu-item a, #menu ul li ul li.current-page-item a{
-    border-color: #af0100;
+    border-color: #fe0000;
 }
 
 .color:hover {
-    border-color: #af0100 ;
+    border-color: #fe0000 ;
 }
 
 .color-m span,.color-m span:hover{
-    border-color: #af0100 ;
-    color: #af0100;
+    border-color: #fe0000 ;
+    color: #fe0000;
 }
 
 a:hover, a:focus,a {
-	color: #af0100;	
+	color: #fe0000;	
 }
 
 *::-moz-selection {
-    background-color: #af0100;
+    background-color: #fe0000;
 }	
 
 a.button,.button {
-    border-color: #af0100;
-	background-color: #af0100;
+    border-color: #fe0000;
+	background-color: #fe0000;
 }	
 
 a span,span{
-    border-color: #af0100 ;
-    color: #af0100;
+    border-color: #fe0000 ;
+    color: #fe0000;
 }
 
 .follower a.fr:hover {
-	background: none repeat scroll 0 0 #af0100;
-    border-color: #af0100;
+	background: none repeat scroll 0 0 #fe0000;
+    border-color: #fe0000;
 }
 /*
 .accordion_op .ui-state-active .ui-accordion-header-icon{
-	background-color: #af0100;
+	background-color: #fe0000;
 }
 .accordion_op .ui-accordion-header.ui-state-active:before{
-   border-bottom: 1px solid #af0100;
-   border-color: #af0100;
-   border-left: 1px solid #af0100;
+   border-bottom: 1px solid #fe0000;
+   border-color: #fe0000;
+   border-left: 1px solid #fe0000;
 }
 
 .ui-accordion-header.ui-state-active:before{
@@ -207,9 +207,9 @@ a span,span{
 }
 
 .accordion_op .ui-accordion-header.ui-state-active{
-	border: 1px solid #af0100;
+	border: 1px solid #fe0000;
 }
 
 .accordion_op .ui-accordion-content{
-	border: 1px solid #af0100;
+	border: 1px solid #fe0000;
 }*/

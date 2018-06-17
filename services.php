@@ -26,7 +26,7 @@
 <div class="col-wrap"><!-- style col-shadow/ col-gray/ testimonial/-->
     <div class="container ">
     <!-- Three columns of text below the carousel -->
-        <h1>Nos services</h1>
+        <h1>Ce que l'on fait ...</h1>
             <!--   hr-Start-->
             <div class="hr hr-left hr-short"> <!--   hr-center/ hr-left/ hr-right/  hr-short/ hr-light/-->
                 <span class="hr-inner">
@@ -38,8 +38,8 @@
             <div class="span4 themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible left-to-right">
                 <div class="service_box_arrow">
                     <div class="service2 angle arrow_box">
-                        <h2><span class=" icon-checkbox-checked"></span>1. Qualifier</h2>
-                        <p>le parcours et les compétences du candidat</p>
+                        <h2><span class=" icon-checkbox-checked"></span>Qualifier</h2>
+                        <p>Le parcours et les compétences des candidats</p>
 					</div>
 			    </div>
 			</div><!-- /.span4 -->
@@ -47,8 +47,8 @@
             <div class="span4 themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible bottom-to-top">
                 <div class="service_box_arrow">
 				    <div class="service2 angle arrow_box">
-					   <h2><span class="icon-file"></span>2. Définir</h2>
-                        <p>le projet professionnel du candidat</p>
+					   <h2><span class="icon-file"></span>Cadrer</h2>
+                        <p>Le projet professionnel des candidats</p>
                     </div>
                 </div>
 			</div><!-- /.span4 -->
@@ -56,8 +56,8 @@
             <div class="span4 themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible right-to-left">
                 <div class="service_box_arrow">
                     <div class="service2 angle arrow_box">
-                        <h2><span class="icon-user"></span>3. Cibler</h2>
-                        <p>les "bonnes" entreprises</p>
+                        <h2><span class="icon-user"></span>Cibler</h2>
+                        <p>Les entreprises qui recrutent</p>
 				    </div>
                 </div>
 			</div><!-- /.span4 -->		
@@ -73,7 +73,7 @@
         <div class="row-fluid"><!-- box-style row Class .box-style -->
             <!-- LE CONCEPT -->
             <div class="span themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible right-to-left">
-                <h1>Concept</h1>
+                <!-- <h1>Concept</h1> -->
                 <!--   hr-Start-->			  
                 <div class="hr hr-left"> <!--   hr-center/ hr-left/ hr-right/  hr-short/ hr-light/-->
                         <span class="hr-inner">
@@ -81,10 +81,10 @@
                         </span>
                 </div>
                 <!--   hr-End-->			  
-                <p><span class="icon-quotes-left"></span><span><b> COMPRENDRE LES BESOINS DU CANDIDAT POUR MIEUX CIBLER LES ENTREPRISES </b></span><span class="icon-quote"></span></p>
-                <p>Nous définissons <b>le projet professionnel du candidat</b> sur la base de son parcours, de ses acquis professionnels et de ses attentes.</p>
-                <p>Nous identifions et rencontrons ensuite <b>les entreprises qui répondent à son projet professionnel</b>. Nous développons constamment notre panel d’entreprises par une veille et une participation active aux évènements IT tels que Meetup, DevoXX, Salon du Big Data, Salon du e-Marketing, Salon du e-Commerce...</p>
-                <p> Les sociétés avec lesquelles nous choisissons de travailler, de la startup à la grande PME, ont pour points communs :</p>
+                <p><span class="icon-quotes-left"></span><span><b> COMPRENDRE LE PARCOURS ET LE PROJET PROFESSIONNEL DES CANDIDATS  POUR MIEUX CIBLER LES ENTREPRISES </b></span><span class="icon-quote"></span></p>
+                <p>Définir <b>le projet professionnel des candidats</b> : comprendre son parcours, évaluer ses compétences et cadrer son projet professionnel.</p>
+                <p>Identifier et contacter <b>les entreprises dont le projet correspond au projet professionnel des candidats</b>. Nous développons constamment notre panel d’entreprises par une veille et une participation active aux évènements sur la Data et l'IA qu'ils soient en France et à l'étranger (San Francisco, Londres, Berlin,...)</p>
+                <p> Les entreprises avec lesquelles nous travaillons, de la startup en préparation d'une lévée de fonds au grand groupe international, ont pour points communs :</p>
                 <p><span class="icon-checkbox-checked"></span> un <b>produit</b> ou un <b>service innovant</b> et/ou <b>à haute valeur ajoutée</b>,</p>
                 <p><span class="icon-checkbox-checked"></span> un <b>environnement challengeant</b>, les équipes qui y travaillent sont des passionnés,</p>
                 <p><span class="icon-checkbox-checked"></span> un <b>management bienveillant</b> qui responsabilise et fait progresser ses équipes.</p>                
