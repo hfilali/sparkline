@@ -103,16 +103,16 @@
             <div class="span4">
                 <div class="team services animationBegin">
                     <div class="team-img">
-                        <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible right-to-left' src="images/team/tanmoy-das.png" alt="Tanmoy Das">
+                        <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible right-to-left' src="images/team/ingrid-mlanao.png" alt="Ingrid Mlanao">
                     </div>
                     <div class="team-data">
-                        <h2>Tanmoy Das</h2>
-                        <p>Consultant | Big Data Recruteur</p>
+                        <h2>Ingrid Mlanao</h2>
+                        <p>Consultante | Big Data Recruteur</p>
                     </div>
                     <div class="team-sr">
                         <ul>
-                            <li><a target="_blank" href="mailto:tanmoy.das@sparkline.fr"  rel="mail"><span class="icon-mail"></a></li>
-                            <li><a target="_blank" href="https://www.linkedin.com/in/tanmoy-das-993576ab/"  rel="linkedin"><span class="icon-linkedin"></a></li>
+                            <li><a target="_blank" href="mailto:ingrid.mlanao@sparkline.fr"  rel="mail"><span class="icon-mail"></a></li>
+                            <li><a target="_blank" href="https://www.linkedin.com/in/ingrid-mlanao-083a32152/"  rel="linkedin"><span class="icon-linkedin"></a></li>
                             <li><a target="_blank" href="https://twitter.com/sparklinetalks"  rel="twitter"><span class="icon-twitter"></a></li>
                         </ul>
                         <div class="clear"></div>
