@@ -14,13 +14,7 @@
                             <a target="_blank" href="https://www.linkedin.com/company/sparkline-human-finders"  rel="linkedin">
                                 <span class="icon-linkedin">
                             </a>
-                        </li>
-                        <li class="s-pinterest themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible right-to-left">
-                            <a target="_blank" href="http://www.viadeo.com/v/company/sparkline/"  rel="viadeo">
-                                <span class="flaticon-viadeo">
-                            </a>
-                        </li>
-                        
+                        </li>                        
 				    </ul>
 				</div>
             </div><!-- /.span12 -->

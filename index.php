@@ -3,6 +3,7 @@
 <head>
 <title>Sparkline | Cabinet de recrutement dans la Data Science & le Big Data</title>
 <?php include("includes/header.php"); ?>
+<meta name="google-site-verification" content="5VmmqD_4-9g5qEMWM7Cjpic05JkYQ35isCUYoaN3oJ4" />
 </head>        
 <body>
 <div id="boxed">
@@ -20,7 +21,7 @@
                 <!-- FIRST SLIDE -->
 				<li data-transition="3dcurtain-vertical" data-slotamount="10" data-masterspeed="300" data-thumb="images/thumbs/thumb1.jpg">
 				    <!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
-				    <img src="images/slides/sparkline_human_finders_white_background.png" alt="" title="">
+				    <img src="images/slides/sparkline_human_finders_white_background.jpeg" alt="Sparkline White Background" title="">
                     <!-- THE CAPTIONS IN THIS SLIDE -->
                     <div class="caption randomrotate" data-x="300" data-y="220" data-speed="600" data-start="2000" data-easing="easeOutExpo">
                         <img src="images/slides/RECRUITMENT.png" alt="RECRUITMENT" title="RECRUITMENT">
@@ -45,7 +46,7 @@
                 <!-- SECOND SLIDE -->
 				<li data-transition="3dcurtain-vertical" data-slotamount="10" data-masterspeed="300" data-thumb="images/thumbs/thumb1.jpg">
 				    <!-- THE MAIN IMAGE IN THE SECOND SLIDE -->
-				    <img src="images/slides/sparkline_human_finders_keywords_background.png" alt="sparkline human finders" title="sparkline human finders"> -->
+				    <img src="images/slides/sparkline_human_finders_keywords_background.jpg" alt="Sparkline Keywords Background"  title="sparkline human finders"> -->
                     <!-- THE CAPTIONS IN THIS SLIDE -->
 					<div class="caption randomrotate" data-x="120" data-y="210" data-speed="600" data-start="2000" data-easing="easeOutExpo">
                         <img src="images/slides/sparkline%20logo.png" alt="Sparkline logo" title="Sparkline Logo">
@@ -69,7 +70,7 @@
         <div class="row-fluid"><!-- box-style row Class .box-style -->
             <div class="span12 themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible left-to-right">
                 <div class="container">
-                    <h1>CABINET DE RECRUTEMENT SPECIALISE <b>DATA SCIENCE</b> ET <b>BIG DATA</b></h1>
+                    <h1>CABINET DE RECRUTEMENT SPECIALISE <b>DATA SCIENCE</b> <b>BIG DATA</b> <b>AI</b> <b>CLOUD</b></h1>
                 </div>
                 <div class="container">
                     <p>
@@ -103,39 +104,62 @@
                 <div class="client themeapt-gallery-thumb">
                     <ul>
                         <li>
-                            <a target="_blank" href="https://clustaar.com" class="bwWrapper featured ">
-                                <img src="images/clients/clustaar.png" alt="Clustaar">
+                            <a target="_blank" href="https://www.dior.com" class="bwWrapper featured ">
+                                <img src="images/clients/christian-dior-couture.jpg" alt="Christian Dior Couture">
                             </a>
                         </li>
                         <li>
-                            <a target="_blank" href="http://www.fortia.fr" class="bwWrapper featured ">
-                                <img src="images/clients/fortia.png" alt="Fortia Financial Services">
+                            <a target="_blank" href="https://www.prismamedia.com" class="bwWrapper featured ">
+                                <img src="images/clients/prisma-media.jpg" alt="PRISMA MEDIA">
                             </a>
-                        </li>
-						<li><a target="_blank" href="https://www.direct-energie.com" class="bwWrapper featured ">
-                                <img src="images/clients/direct%20energie.png" alt="Direct Energie">
+                        </li>                       
+						<li>
+                            <a target="_blank" href="https://www.deezer.com" class="bwWrapper featured ">
+                                <img src="images/clients/deezer.png" alt="Deezer">
                             </a>
                         </li>
                         <li>
                             <a target="_blank" href="http://www.octo.com" class="bwWrapper featured ">
-                                <img src="images/clients/octo.png" alt="Octo Technology">
-                            </a>
-                        </li>
-						<li>
-                            <a target="_blank" href="https://www.verisure.fr" class="bwWrapper featured ">
-                                <img src="images/clients/verisure.png" alt="Verisure">
+                                <img src="images/clients/octo.jpg" alt="Octo Technology">
                             </a>
                         </li>
                         <li>
-                            <a target="_blank" href="https://snips.ai" class="bwWrapper featured ">
-                                <img src="images/clients/snips.png" alt="Snips">
-                            </a>
-                        </li>                       
-                        <li>
-                            <a target="_blank" href="https://wizdeo.com" class="bwWrapper featured ">
-                                <img src="images/clients/wizdeo.png" alt="Wizdeo">
+                            <a target="_blank" href="https://www.direct-energie.com" class="bwWrapper featured ">
+                                <img src="images/clients/direct%20energie.jpg" alt="Direct Energie">
                             </a>
                         </li>
+                        <li>
+                            <a target="_blank" href="https://www.kiabi.com" class="bwWrapper featured ">
+                                <img src="images/clients/kiabi.jpg" alt="KIABI">
+                            </a>
+                        </li>
+                        </li>
+                            <a target="_blank" href="https://www.quantmetry.com" class="bwWrapper featured ">
+                                <img src="images/clients/quantmetry.jpg" alt="Quantmetry">
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="https://www.sinay.fr" class="bwWrapper featured ">
+                                <img src="images/clients/sinay.jpg" alt="SINAY">
+                            </a>
+                        </li>
+                        <li>
+                            <li>
+                            <a target="_blank" href="http://www.fortia.fr" class="bwWrapper featured ">
+                                <img src="images/clients/fortia.jpg" alt="Fortia Financial Services">
+                            </a>
+                        <li>
+                            <a target="_blank" href="https://www.ekimetrics.com" class="bwWrapper featured ">
+                                <img src="images/clients/ekimetrics.jpg" alt="Ekimetrics">
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="https://www.d2si.io" class="bwWrapper featured ">
+                                <img src="images/clients/d2si.jpg" alt="D2SI">
+                            </a>
+                        </li>
+                        
+                        
                     </ul>
                 </div>
             </div><!-- /.span4 -->
