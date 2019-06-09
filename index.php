@@ -21,39 +21,64 @@
                 <!-- FIRST SLIDE -->
 				<li data-transition="3dcurtain-vertical" data-slotamount="10" data-masterspeed="300" data-thumb="images/thumbs/thumb1.jpg">
 				    <!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
-				    <img src="images/slides/sparkline_human_finders_white_background.jpeg" alt="Sparkline White Background" title="">
+				    <img src="images/slides/sparkline_human_finders_purple_background.jpg" alt="Sparkline Purple Background" title="">
                     <!-- THE CAPTIONS IN THIS SLIDE -->
-                    <div class="caption randomrotate" data-x="300" data-y="220" data-speed="600" data-start="2000" data-easing="easeOutExpo">
-                        <img src="images/slides/RECRUITMENT.png" alt="RECRUITMENT" title="RECRUITMENT">
+                    <div class="caption randomrotate" data-x="400" data-y="130" data-speed="600" data-start="1000" data-easing="easeOutExpo">
+                        <img src="images/slides/WE_ARE.png" alt="WE ARE" title="WE ARE">
                     </div>
-                    <div class="caption randomrotate" data-x="500" data-y="60" data-speed="600" data-start="2500" data-easing="easeOutExpo">
-                        <img src="images/slides/DATA%20SCIENCE.png" alt="DATA SCIENCE" title="DATA SCIENCE">
+                    <div class="caption randomrotate" data-x="390" data-y="220" data-speed="600" data-start="1500" data-easing="easeOutExpo">
+                        <img src="images/slides/sparkline.png" alt="Sparkline" title="Sparkline">
                     </div>
-                    <div class="caption randomrotate" data-x="200" data-y="400" data-speed="600" data-start="3000" data-easing="easeOutExpo">
-                        <img src="images/slides/BIG%20DATA.png" alt="BIG DATA" title="BIG DATA">
+                    <div class="caption randomrotate" data-x="390" data-y="340" data-speed="600" data-start="1800" data-easing="easeOutExpo">
+                        <img src="images/slides/huyman_finders.png" alt="Human Finders" title="Human Finders">
+                    </div>                    
+                </li>
+                <!-- SECOND SLIDE -->
+				<li data-transition="3dcurtain-vertical" data-slotamount="10" data-masterspeed="300" data-thumb="images/thumbs/thumb1.jpg">
+				    <!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
+				    <img src="images/slides/sparkline_human_finders_purple_background.jpg" alt="Sparkline Purple Background" title="">
+                    <!-- THE CAPTIONS IN THIS SLIDE -->
+                    <div class="caption randomrotate" data-x="400" data-y="130" data-speed="600" data-start="1000" data-easing="easeOutExpo">
+                        <img src="images/slides/WE_LIKE_PEOPLE.png" alt="WE LIKE PEOPLE" title="WE LIKE PEOPLE">
                     </div>
-                    <div class="caption randomrotate" data-x="30" data-y="130" data-speed="600" data-start="3500" data-easing="easeOutExpo">
-                        <img src="images/slides/MACHINE%20LEARNING.png" alt="MACHINE LEARNING" title="MACHINE LEARNING">
+                    <div class="caption randomrotate" data-x="400" data-y="210" data-speed="600" data-start="1300" data-easing="easeOutExpo">
+                        <img src="images/slides/WHO_LOVE.png" alt="WHO LOVE" title="WHO LOVE">
                     </div>
-                    <div class="caption randomrotate" data-x="480" data-y="330" data-speed="600" data-start="4000" data-easing="easeOutExpo">
-                        <img src="images/slides/DEEP%20LEARNING.png" alt="DEEP LEARNING" title="DEEP LEARNING">
-                    </div>
-                    <div class="caption randomrotate" data-x="180" data-y="300" data-speed="600" data-start="4500" data-easing="easeOutExpo">
-                        <img src="images/slides/AI.png" alt="AI" title="AI">
+                    <div class="caption randomrotate" data-x="400" data-y="290" data-speed="600" data-start="1600" data-easing="easeOutExpo">
+                        <img src="images/slides/DATA.png" alt="#DATA" title="#DATA">
                     </div>
                 </li>
                     
-                <!-- SECOND SLIDE -->
+                <!-- THIRD SLIDE -->
 				<li data-transition="3dcurtain-vertical" data-slotamount="10" data-masterspeed="300" data-thumb="images/thumbs/thumb1.jpg">
 				    <!-- THE MAIN IMAGE IN THE SECOND SLIDE -->
-				    <img src="images/slides/sparkline_human_finders_keywords_background.jpg" alt="Sparkline Keywords Background"  title="sparkline human finders"> -->
-                    <!-- THE CAPTIONS IN THIS SLIDE -->
-					<div class="caption randomrotate" data-x="120" data-y="210" data-speed="600" data-start="2000" data-easing="easeOutExpo">
-                        <img src="images/slides/sparkline%20logo.png" alt="Sparkline logo" title="Sparkline Logo">
+				    <img src="images/slides/sparkline_human_finders_purple_background.jpg" alt="Sparkline Purple Background" title=""> <!-- THE CAPTIONS IN THIS SLIDE -->
+					<div class="caption randomrotate" data-x="45" data-y="55" data-speed="600" data-start="1500" data-easing="easeOutExpo">
+                        <img src="images/slides/candidates/chief_data_officer.png" alt="Chief Data Officer" title="Chief Data Officer">
                     </div>
-                    <div class="caption randomrotate" data-x="510" data-y="135" data-speed="600" data-start="2750" data-easing="easeOutExpo">
-                        <img src="images/slides/sparkline%20networking.png" alt="sparkline networking" title="sparkline networking">
+                    <div class="caption randomrotate" data-x="265" data-y="55" data-speed="600" data-start="2000" data-easing="easeOutExpo">
+                        <img src="images/slides/candidates/data_architect.png" alt="Data Architect" title="Data Architect">
                     </div>
+                    <div class="caption randomrotate" data-x="485" data-y="55" data-speed="600" data-start="800" data-easing="easeOutExpo">
+                        <img src="images/slides/candidates/data_scientist.png" alt="Data Scientist" title="Data Scientist">
+                    </div>
+                    <div class="caption randomrotate" data-x="705" data-y="55" data-speed="600" data-start="1000" data-easing="easeOutExpo">
+                        <img src="images/slides/candidates/dataviz_engineer.png" alt="Dataviz Engineer" title="Dataviz Engineer">
+                    </div>
+                    <!-- 2ème Rangée de profils candidats -->
+					<div class="caption randomrotate" data-x="45" data-y="295" data-speed="600" data-start="1250" data-easing="easeOutExpo">
+                        <img src="images/slides/candidates/data_engineer.png" alt="Data Engineer" title="Data Engineer">
+                    </div>
+                    <div class="caption randomrotate" data-x="265" data-y="295" data-speed="600" data-start="3200" data-easing="easeOutExpo">
+                        <img src="images/slides/candidates/data_analyst.png" alt="Data Analyst" title="Data Analyst">
+                    </div>
+                    <div class="caption randomrotate" data-x="485" data-y="295" data-speed="600" data-start="4250" data-easing="easeOutExpo">
+                        <img src="images/slides/candidates/data_ops.png" alt="DataOps" title="DataOps">
+                    </div>
+                    <div class="caption randomrotate" data-x="705" data-y="295" data-speed="600" data-start="3000" data-easing="easeOutExpo">
+                        <img src="images/slides/candidates/growth_hacker.png" alt="Growth Hacker" title="Growth Hacker">
+                    </div>
+                    
 				</li>
                
             </ul>
@@ -70,12 +95,18 @@
         <div class="row-fluid"><!-- box-style row Class .box-style -->
             <div class="span12 themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible left-to-right">
                 <div class="container">
-                    <h1>CABINET DE RECRUTEMENT SPECIALISE <b>DATA SCIENCE</b> <b>BIG DATA</b> <b>AI</b> <b>CLOUD</b></h1>
+                    <h1>CABINET DE RECRUTEMENT SPECIALISE #<b>DATA SCIENCE</b> #<b>BIG DATA</b> #<b>AI</b> #<b>CLOUD</b></h1>
                 </div>
                 <div class="container">
                     <p>
                         <a class="button purchase themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible top-to-bottom" href="services.php">Voir nos services</a>
                     </p>
+                </div>
+                <!-- Annonce exposant à l'AI Paris 2019 -->
+                <div class="container">
+                    <a target="_blank" href="https://aiparis.fr/2019/">
+                        <img src="images/promotions/AI%20Paris%202019%20banner.png" alt="AI Paris 2019">
+                    </a>                    
                 </div>
             </div>
         </div>
@@ -115,7 +146,7 @@
                         </li>                       
 						<li>
                             <a target="_blank" href="https://www.deezer.com" class="bwWrapper featured ">
-                                <img src="images/clients/deezer.png" alt="Deezer">
+                                <img src="images/clients/deezer.jpg" alt="Deezer">
                             </a>
                         </li>
                         <li>
@@ -133,7 +164,7 @@
                                 <img src="images/clients/kiabi.jpg" alt="KIABI">
                             </a>
                         </li>
-                        </li>
+                        <li>
                             <a target="_blank" href="https://www.quantmetry.com" class="bwWrapper featured ">
                                 <img src="images/clients/quantmetry.jpg" alt="Quantmetry">
                             </a>
@@ -144,7 +175,6 @@
                             </a>
                         </li>
                         <li>
-                            <li>
                             <a target="_blank" href="http://www.fortia.fr" class="bwWrapper featured ">
                                 <img src="images/clients/fortia.jpg" alt="Fortia Financial Services">
                             </a>
@@ -158,8 +188,6 @@
                                 <img src="images/clients/d2si.jpg" alt="D2SI">
                             </a>
                         </li>
-                        
-                        
                     </ul>
                 </div>
             </div><!-- /.span4 -->

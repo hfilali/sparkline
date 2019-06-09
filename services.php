@@ -9,19 +9,7 @@
 <div id="boxed">
 <section>	
 <?php include("includes/menu.php"); ?>
-    
-<!-- BAR TITRE -->
-<div class="title-bar"><!-- style t-shadow/ t-gray/ -->
-	<div class="container ">
-		<!-- <h2 class="page-title">Services</h2> <!-- /.page-title -->
-		<div class="page-root">
-			<a href="index.php">Accueil</a>/
-			<a href="#">Services</a>			
-		</div> <!-- /.page-root -->
-	</div> <!-- /.container -->
-</div><!-- /.title-bar -->
-<!-- FIN BAR TITRE -->
-    
+        
 <!-- LE PROCESS -->
 <div class="col-wrap"><!-- style col-shadow/ col-gray/ testimonial/-->
     <div class="container ">

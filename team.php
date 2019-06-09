@@ -9,17 +9,6 @@
 <div id="boxed">
 <section>	
 <?php include("includes/menu.php"); ?>
-	
-<!-- BAR TITRE -->
-<div class="title-bar"><!-- style t-shadow/ t-gray/ -->
-	<div class="container ">
-		<div class="page-root">
-			<a href="index.php">Accueil</a>/
-			<a href="#">L'équipe</a>			
-		</div> <!-- /.page-root -->
-	</div> <!-- /.container -->
-</div><!-- /.title-bar -->
-<!-- FIN BAR TITRE -->
 
 <!-- LES FONDATEURS -->
 <div class="col-wrap col-shadow"><!-- style col-shadow/ col-gray/ bg/ testimonial/-->
@@ -34,14 +23,14 @@
 		<!--   hr-Close-->
         <!-- Two columns of text below the Box -->
         <div class="row-fluid">
-            <!-- Elinore Thomas -->
+            <!-- Elinore Thomas 
             <div class="span4 first">
                 <div class="team services animationBegin">
                     <div class="team-img">
                         <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible left-to-right' src="images/team/elinore-thomas.jpg" alt="Elinore Thomas">
                         <!-- <div class="t_hover">
                             <p>Diplômée en 2008 d’un Master en Mathématiques Appliquées, j'ai commencé comme consultante en informatique scientifique. J'ai ensuite travaillé comme ingénieur commercial en cabinet de conseil IT avant de créer Sparkline.</p>
-                        </div> -->				 
+                        </div> 			 
 				    </div>
                     <div class="team-data">
                         <h2>Elinore Thomas</h2>
@@ -51,12 +40,11 @@
                         <ul>
                             <li><a target="_blank" href="mailto:elinore.thomas@sparkline.fr"  rel="mail"><span class="icon-mail"></a></li>
                             <li><a target="_blank" href="https://fr.linkedin.com/in/elinorethomas"  rel="linkedin"><span class="icon-linkedin"></a></li>
-                            <li><a target="_blank" href="fr.viadeo.com/fr/profile/elinore.thomas"  rel="viadeo"><span class="flaticon-viadeo"></a></li>
                             <li><a target="_blank" href="https://twitter.com/sparklinetalks"  rel="twitter"><span class="icon-twitter"></a></li>
                         </ul>
                         <div class="clear"></div>
-				    </div>
-                </div><!-- /team-item -->
+				    </div> 
+                </div><!-- /team-item 
             </div><!-- /.span4 -->
             <!-- Hadil Filali -->
             <div class="span4">
@@ -66,13 +54,12 @@
                     </div>
                     <div class="team-data">
                         <h2>Hadil Filali</h2>
-                        <p>Co-founder | COO & Recruiter</p>
+                        <p>Co-founder | COO & Data Recruiter</p>
                     </div>
                     <div class="team-sr">
                         <ul>
                             <li><a target="_blank" href="mailto:hadil.filali@sparkline.fr"  rel="mail"><span class="icon-mail"></a></li>
                             <li><a target="_blank" href="https://fr.linkedin.com/in/hadilfilali"  rel="linkedin"><span class="icon-linkedin"></a></li>
-                            <li><a target="_blank" href="http://www.viadeo.com/fr/profile/hadil.filali1"  rel="viadeo"><span class="flaticon-viadeo"></a></li>
                             <li><a target="_blank" href="https://twitter.com/sparklinetalks"  rel="twitter"><span class="icon-twitter"></a></li>
                         </ul>
                         <div class="clear"></div>
