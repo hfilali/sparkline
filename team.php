@@ -13,7 +13,7 @@
 <!-- LES FONDATEURS -->
 <div class="col-wrap col-shadow"><!-- style col-shadow/ col-gray/ bg/ testimonial/-->
 	<div class="container ">
-        <h1>Qui sommes-nous ...</h1>	
+        <h1>L'équipe SPARKLINE</h1>	
         <!--   hr-Start-->	
 		<div class="hr hr-left hr-short"> <!--   hr-center/ hr-left/ hr-right/  hr-short/ hr-light/-->
             <span class="hr-inner">
@@ -23,29 +23,6 @@
 		<!--   hr-Close-->
         <!-- Two columns of text below the Box -->
         <div class="row-fluid">
-            <!-- Elinore Thomas 
-            <div class="span4 first">
-                <div class="team services animationBegin">
-                    <div class="team-img">
-                        <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible left-to-right' src="images/team/elinore-thomas.jpg" alt="Elinore Thomas">
-                        <!-- <div class="t_hover">
-                            <p>Diplômée en 2008 d’un Master en Mathématiques Appliquées, j'ai commencé comme consultante en informatique scientifique. J'ai ensuite travaillé comme ingénieur commercial en cabinet de conseil IT avant de créer Sparkline.</p>
-                        </div> 			 
-				    </div>
-                    <div class="team-data">
-                        <h2>Elinore Thomas</h2>
-                        <p>Co-founder | CEO</p>
-				    </div>
-                    <div class="team-sr">
-                        <ul>
-                            <li><a target="_blank" href="mailto:elinore.thomas@sparkline.fr"  rel="mail"><span class="icon-mail"></a></li>
-                            <li><a target="_blank" href="https://fr.linkedin.com/in/elinorethomas"  rel="linkedin"><span class="icon-linkedin"></a></li>
-                            <li><a target="_blank" href="https://twitter.com/sparklinetalks"  rel="twitter"><span class="icon-twitter"></a></li>
-                        </ul>
-                        <div class="clear"></div>
-				    </div> 
-                </div><!-- /team-item 
-            </div><!-- /.span4 -->
             <!-- Hadil Filali -->
             <div class="span4">
                 <div class="team services animationBegin">
