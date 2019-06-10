@@ -10,12 +10,35 @@
 <section>	
 <?php include("includes/menu.php"); ?>
 
-<!-- LES FONDATEURS -->
-<div class="col-wrap col-shadow"><!-- style col-shadow/ col-gray/ bg/ testimonial/-->
+<div class="col-wrap "><!-- style col-shadow/ col-gray/ testimonial/-->
+    <div class="container ">
+        <div class="row-fluid">
+            <div class="span12 themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible left-to-right">
+                <!--   Big Title wrap -->	
+			    <div class="big-title">
+                    <h1>Une équipe dynamique et passionnée à votre écoute</h1>
+                </div>
+                <!--   hr-Start-->			  
+			    <div class="hr hr-center"> <!--   hr-center/ hr-left/ hr-right/  hr-short/ hr-light/-->
+                    <span class="hr-inner">
+				        <span class="hr-inner-style"></span>
+				    </span>
+			    </div>
+			    <!--   hr-End-->	
+                <p class="center">
+                    Comprendre le parcours et le projet professionnels du  Candidat pour cibler le bon projet d'entreprise.
+                </p>					
+            </div><!-- /.span12 -->		
+        </div><!-- /.row -->		 
+	</div><!-- /.container -->
+</div><!-- /.col -->
+    
+<!-- LES DATA RECRUITERS -->
+<div class="col-wrap style col-gray"><!-- style col-shadow/ col-gray/ bg/ testimonial/-->
 	<div class="container ">
-        <h1>L'équipe SPARKLINE</h1>	
+        <h1>Les Data Recruiters</h1>	
         <!--   hr-Start-->	
-		<div class="hr hr-left hr-short"> <!--   hr-center/ hr-left/ hr-right/  hr-short/ hr-light/-->
+		<div class="hr hr-left hr-light"> <!--   hr-center/ hr-left/ hr-right/  hr-short/ hr-light/-->
             <span class="hr-inner">
                 <span class="hr-inner-style"></span>
 			</span>
@@ -24,7 +47,7 @@
         <!-- Two columns of text below the Box -->
         <div class="row-fluid">
             <!-- Hadil Filali -->
-            <div class="span4">
+            <div class="span4 first">
                 <div class="team services animationBegin">
                     <div class="team-img">
                         <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible right-to-left' src="images/team/hadil-filali.jpg" alt="Hadil Filali">
@@ -85,6 +108,23 @@
                     </div>
                 </div><!-- /team-item -->
             </div><!-- /.span4 -->
+        </div><!-- /.row -->			 
+    </div><!-- /.container -->
+</div><!-- /.col -->
+
+<!-- LES EXPERTS TECHNIQUES -->
+<div class="col-wrap col-grey"><!-- style col-shadow/ col-gray/ bg/ testimonial/-->
+	<div class="container ">
+        <h1>Les Experts techniques</h1>	
+        <!--   hr-Start-->	
+		<div class="hr hr-left hr-light"> <!--   hr-center/ hr-left/ hr-right/  hr-short/ hr-light/-->
+            <span class="hr-inner">
+                <span class="hr-inner-style"></span>
+			</span>
+        </div>
+		<!--   hr-Close-->
+        <!-- Two columns of text below the Box -->
+        <div class="row-fluid">
             <!-- Loîc -->
             <div class="span4">
                 <div class="team services animationBegin">
@@ -123,10 +163,11 @@
                         <div class="clear"></div>
                     </div>
                 </div><!-- /team-item -->
-            </div><!-- /.span4 -->            
+            </div><!-- /.span4 --> 
         </div><!-- /.row -->			 
     </div><!-- /.container -->
-</div><!-- /.col -->	
+</div><!-- /.col -->
+    
 <?php include("includes/footer.php"); ?>
 </section>	
 </div>
