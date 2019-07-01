@@ -1,8 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Sparkline | Contact</title>
-<?php include("includes/header.php"); ?>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143071944-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-143071944-1');
+    </script>
+    <title>Sparkline | Contact</title>
+    <?php include("includes/header.php"); ?>
 </head>        
 <body>
 

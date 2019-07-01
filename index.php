@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Sparkline | Cabinet de recrutement dans la Data Science & le Big Data</title>
-<?php include("includes/header.php"); ?>
-<meta name="google-site-verification" content="5VmmqD_4-9g5qEMWM7Cjpic05JkYQ35isCUYoaN3oJ4" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143071944-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-143071944-1');
+    </script>
+
+    <title>Sparkline | Cabinet de recrutement dans la Data Science & le Big Data</title>
+    <?php include("includes/header.php"); ?>
+    <meta name="google-site-verification" content="5VmmqD_4-9g5qEMWM7Cjpic05JkYQ35isCUYoaN3oJ4" />
 </head>        
 <body>
 <div id="boxed">
@@ -101,12 +111,6 @@
                     <p>
                         <a class="button purchase themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible top-to-bottom" href="services.php">Voir nos services</a>
                     </p>
-                </div>
-                <!-- Annonce exposant à l'AI Paris 2019 -->
-                <div class="container">
-                    <a target="_blank" href="https://aiparis.fr/2019/">
-                        <img src="images/promotions/AI%20Paris%202019%20banner.png" alt="AI Paris 2019">
-                    </a>                    
                 </div>
             </div>
         </div>
