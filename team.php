@@ -56,7 +56,7 @@
         <!-- Two columns of text below the Box -->
         <div class="row-fluid">
             <!-- Hadil Filali -->
-            <div class="span4 first">
+            <div class="span3 first">
                 <div class="team services animationBegin">
                     <div class="team-img">
                         <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible right-to-left' src="images/team/hadil-filali.jpg" alt="Hadil Filali">
@@ -74,10 +74,10 @@
                         <div class="clear"></div>
                     </div>
                 </div><!-- /team-item -->
-            </div><!-- /.span4 -->		
+            </div><!-- /.span3 -->		
             
             <!-- Ingrid Mlanao -->
-            <div class="span4">
+            <div class="span3">
                 <div class="team services animationBegin">
                     <div class="team-img">
                         <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible right-to-left' src="images/team/ingrid-mlanao.jpg" alt="Ingrid Mlanao">
@@ -89,16 +89,16 @@
                     <div class="team-sr">
                         <ul>
                             <li><a target="_blank" href="mailto:ingrid.mlanao@sparkline.fr"  rel="mail"><span class="icon-mail"></a></li>
-                            <li><a target="_blank" href="https://www.linkedin.com/in/ingrid-mlanao-083a32152/"  rel="linkedin"><span class="icon-linkedin"></a></li>
+                            <li><a target="_blank" href="https://www.linkedin.com/in/ingrid-mlanao-083a32152"  rel="linkedin"><span class="icon-linkedin"></a></li>
                             <li><a target="_blank" href="https://twitter.com/sparklinetalks"  rel="twitter"><span class="icon-twitter"></a></li>
                         </ul>
                         <div class="clear"></div>
                     </div>
                 </div><!-- /team-item -->
-            </div><!-- /.span4 -->
+            </div><!-- /.span3 -->
             
             <!-- Loïc Zwierzewicz -->
-            <div class="span4">
+            <div class="span3">
                 <div class="team services animationBegin">
                     <div class="team-img">
                         <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible right-to-left' src="images/team/loic-zwierzewicz.jpg" alt="Loïc Zwierzewicz">
@@ -110,13 +110,34 @@
                     <div class="team-sr">
                         <ul>
                             <li><a target="_blank" href="mailto:loic.zwierzewicz@sparkline.fr"  rel="mail"><span class="icon-mail"></a></li>
-                            <li><a target="_blank" href="https://www.linkedin.com/in/loiczwierzewicz/"  rel="linkedin"><span class="icon-linkedin"></a></li>
+                            <li><a target="_blank" href="https://www.linkedin.com/in/loiczwierzewicz"  rel="linkedin"><span class="icon-linkedin"></a></li>
                             <li><a target="_blank" href="https://twitter.com/sparklinetalks"  rel="twitter"><span class="icon-twitter"></a></li>
                         </ul>
                         <div class="clear"></div>
                     </div>
                 </div><!-- /team-item -->
-            </div><!-- /.span4 -->
+            </div><!-- /.span3 -->
+            
+            <!-- Clément Bultey -->
+            <div class="span3">
+                <div class="team services animationBegin">
+                    <div class="team-img">
+                        <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible right-to-left' src="images/team/clement-bultey.jpg" alt="Clément Bultey">
+                    </div>
+                    <div class="team-data">
+                        <h2>Clément Bultey</h2>
+                        <p>Consultant | Data Recruiter</p>
+                    </div>
+                    <div class="team-sr">
+                        <ul>
+                            <li><a target="_blank" href="mailto:clement.bultey@sparkline.fr"  rel="mail"><span class="icon-mail"></a></li>
+                            <li><a target="_blank" href="https://www.linkedin.com/in/clémentb"  rel="linkedin"><span class="icon-linkedin"></a></li>
+                            <li><a target="_blank" href="https://twitter.com/sparklinetalks"  rel="twitter"><span class="icon-twitter"></a></li>
+                        </ul>
+                        <div class="clear"></div>
+                    </div>
+                </div><!-- /team-item -->
+            </div><!-- /.span3 -->
         </div><!-- /.row -->			 
     </div><!-- /.container -->
 </div><!-- /.col -->
@@ -135,7 +156,7 @@
         <!-- Two columns of text below the Box -->
         <div class="row-fluid">
             <!-- Loîc -->
-            <div class="span4">
+            <div class="span3">
                 <div class="team services animationBegin">
                     <div class="team-img">
                         <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible right-to-left' src="images/team/loic-knuchel.jpg" alt="Loïc Knuchel">
@@ -154,9 +175,9 @@
                         <div class="clear"></div>
                     </div>
                 </div><!-- /team-item -->
-            </div><!-- /.span4 -->            
+            </div><!-- /.span3 -->            
             <!-- Prosper -->
-            <div class="span4">
+            <div class="span3">
                 <div class="team services animationBegin">
                     <div class="team-img">
                         <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible bottom-to-top' src="images/team/prosper-burq.jpg" alt="Prosper Burq">
@@ -172,7 +193,7 @@
                         <div class="clear"></div>
                     </div>
                 </div><!-- /team-item -->
-            </div><!-- /.span4 --> 
+            </div><!-- /.span3 --> 
         </div><!-- /.row -->			 
     </div><!-- /.container -->
 </div><!-- /.col -->
