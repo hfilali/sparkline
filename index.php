@@ -96,30 +96,83 @@
         </div>
     </div>	<!--/fullwidthbanner-container-->
 </div><!-- /.Slider -->
-<!-- FIN SLIDES -->
 
-<!-- PITCH INTRO --> 
+<!-- INTRO -->
+<!-- <div class="col-wrap "><!-- style col-shadow/ col-gray/ testimonial/ -->
+<!--     <div class="container ">
+<!--         <div class="row-fluid"><!-- box-style row Class .box-style -->
+<!--             <div class="span12 themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible left-to-right">
+<!--                 <div class="container">
+<!--                     <div class="row-fluid">
+<!--                         <h1>CABINET DE RECRUTEMENT SPECIALISE #<b>DATA SCIENCE</b> #<b>BIG DATA</b> #<b>AI</b> #<b>CLOUD</b></h1>
+<!--                     </div>
+<!--                 </div>
+<!--             </div>
+<!--        </div>
+<!--     </div>
+</div> -->
+    
 <div class="col-wrap "><!-- style col-shadow/ col-gray/ testimonial/-->
     <div class="container ">
-        <!-- Two columns of text below the Box -->
-        <div class="row-fluid"><!-- box-style row Class .box-style -->
+        <div class="row-fluid">
             <div class="span12 themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible left-to-right">
-                <div class="container">
+                <!--   Big Title wrap -->	
+			    <div class="big-title">
                     <h1>CABINET DE RECRUTEMENT SPECIALISE #<b>DATA SCIENCE</b> #<b>BIG DATA</b> #<b>AI</b> #<b>CLOUD</b></h1>
                 </div>
-                <div class="container">
-                    <p>
-                        <a class="button purchase themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible top-to-bottom" href="services.php">Voir nos services</a>
-                    </p>
-                </div>
-            </div>
-        </div>
+                <!--   hr-Start-->			  
+			    <div class="hr hr-center"> <!--   hr-center/ hr-left/ hr-right/  hr-short/ hr-light/-->
+                    <span class="hr-inner">
+				        <span class="hr-inner-style"></span>
+				    </span>
+			    </div>
+			    <!--   hr-End-->	
+                <p class="center">
+                    Depuis 2014, nous avons développé une expertise sur le recrutement des profils spécialisés sur les nouvelles  technologies dédiées à l'exploration et la valorisation de la Data : Data Scientist, Data Analyst, Data Engineer, Data Architect, DataOps, Data Manager, Chief Data Officer, Cloud Engineer, Cloud Architect...                    
+                </p>					
+            </div><!-- /.span12 -->		
+        </div><!-- /.row -->		 
+	</div><!-- /.container -->
+</div><!-- /.col -->
+
+<!-- NOS 3 OFFRES -->
+<div class="col-wrap"><!-- style col-shadow/ col-gray/ testimonial/-->
+    <div class="container ">
+	   <!-- Three columns of text below the carousel -->
+        <div class="row-fluid">
+            <div class="span4 first themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible left-to-right">
+                <div class="box-style "> <!-- box-style row Class .box-style -->
+                    <span class="icon-target"></span>
+                    <h2>Chasse CDI/Freelance</h2>
+					<p>Vous voulez internaliser ou renforcer votre expertise interne Data avec de nouveaux collaborateurs ? Vous souhaitez faire appel à un freelance sur une expertise Data ? </p>
+					<p><a class="btn-white" href="contact.php">Contactez-nous</a></p>
+                </div><!-- /.spanin -->
+            </div><!-- /.span4 -->
+				
+			<div class="span4 themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible bottom-to-top">
+                <div class="box-style ">
+                    <span class="icon-checkbox-checked"></span>
+					<h2>Assessment / Evaluation</h2>
+                    <p>Vous avez constitué un pipe de candidats potentiels spécialisés dans la Data et vous souhaitez avoir un feedback externe sur leurs compétences techniques et leur savoir-être ?</p>
+					<p><a class="btn-white" href="contact.php">Contactez-nous</a></p>
+				</div><!-- /.spanin -->
+            </div><!-- /.span4 -->		
+				
+			<div class="span4 themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible right-to-left">
+                <div class="box-style ">
+                    <span class="icon-users"></span>
+                    <h2>Formation Recrutement</h2>
+                    <p>Vous souhaitez former votre équipe (RH, Manager) au recrutement des profils Data (sourcing, préqualification téléphonique, conduite de l'entretien, intégration...) ?</p>
+                    <p><a class="btn-white" href="contact.php">Contactez-nous</a></p>
+				</div><!-- /.spanin -->
+            </div><!-- /.span4 -->
+        </div><!-- /.row -->		  
     </div>
-</div>
+</div><!-- /.col -->
     
 
-<!-- LISTE DES CLIENTS -->
-<div class="col-wrap "><!-- style col-shadow/ col-gray/ testimonial/-->
+<!-- REFERENCES CLIENTS -->
+<div class="col-wrap"><!-- style col-shadow/ col-gray/ testimonial/-->
     <div class="container ">
         <!-- Two columns of text below the Box -->
         <div class="row-fluid"><!-- box-style row Class .box-style -->
@@ -144,10 +197,25 @@
                             </a>
                         </li>
                         <li>
+                            <a target="_blank" href="https://www.clarins.fr" class="bwWrapper featured ">
+                                <img src="images/clients/clarins.jpg" alt="CLARINS">
+                            </a>
+                        </li>
+                        <li>
                             <a target="_blank" href="https://www.prismamedia.com" class="bwWrapper featured ">
                                 <img src="images/clients/prisma-media.jpg" alt="PRISMA MEDIA">
                             </a>
-                        </li>                       
+                        </li>
+                        <li>
+                            <a target="_blank" href="https://www.quantmetry.com" class="bwWrapper featured ">
+                                <img src="images/clients/quantmetry.jpg" alt="Quantmetry">
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="https://www.bouyguestelecom.fr" class="bwWrapper featured ">
+                                <img src="images/clients/bouygues-telecom.jpg" alt="BOUYGUES TELECOM">
+                            </a>
+                        </li> 
 						<li>
                             <a target="_blank" href="https://www.deezer.com" class="bwWrapper featured ">
                                 <img src="images/clients/deezer.jpg" alt="Deezer">
@@ -166,16 +234,6 @@
                         <li>
                             <a target="_blank" href="https://www.kiabi.com" class="bwWrapper featured ">
                                 <img src="images/clients/kiabi.jpg" alt="KIABI">
-                            </a>
-                        </li>
-                        <li>
-                            <a target="_blank" href="https://www.quantmetry.com" class="bwWrapper featured ">
-                                <img src="images/clients/quantmetry.jpg" alt="Quantmetry">
-                            </a>
-                        </li>
-                        <li>
-                            <a target="_blank" href="https://www.sinay.fr" class="bwWrapper featured ">
-                                <img src="images/clients/sinay.jpg" alt="SINAY">
                             </a>
                         </li>
                         <li>

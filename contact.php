@@ -25,7 +25,7 @@
         <!-- Three columns of text below the carousel -->
         <div class="row-fluid">
             <div class="span8 themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible left-to-right">
-                <h1>Pour nous contacter ...</h1>
+                <h1>Prenez contact avec nous</h1>
                 <!--   hr-Start-->
                 <div class="hr hr-left hr-short"> <!--   hr-center/ hr-left/ hr-right/  hr-short/ hr-light/-->
                     <span class="hr-inner">
