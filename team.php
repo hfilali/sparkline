@@ -56,14 +56,14 @@
         <!-- Two columns of text below the Box -->
         <div class="row-fluid">
             <!-- Hadil Filali -->
-            <div class="span3 first">
+            <div class="span3">
                 <div class="team services animationBegin">
                     <div class="team-img">
                         <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible right-to-left' src="images/team/hadil-filali.jpg" alt="Hadil Filali">
                     </div>
                     <div class="team-data">
                         <h2>Hadil Filali</h2>
-                        <p>Co-founder | COO & Data Recruiter</p>
+                        <p>Founder/COO & Data Recruiter</p>
                     </div>
                     <div class="team-sr">
                         <ul>
@@ -111,27 +111,6 @@
                         <ul>
                             <li><a target="_blank" href="mailto:loic.zwierzewicz@sparkline.fr"  rel="mail"><span class="icon-mail"></a></li>
                             <li><a target="_blank" href="https://www.linkedin.com/in/loiczwierzewicz"  rel="linkedin"><span class="icon-linkedin"></a></li>
-                            <li><a target="_blank" href="https://twitter.com/sparklinetalks"  rel="twitter"><span class="icon-twitter"></a></li>
-                        </ul>
-                        <div class="clear"></div>
-                    </div>
-                </div><!-- /team-item -->
-            </div><!-- /.span3 -->
-            
-            <!-- Clément Bultey -->
-            <div class="span3">
-                <div class="team services animationBegin">
-                    <div class="team-img">
-                        <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible right-to-left' src="images/team/clement-bultey.jpg" alt="Clément Bultey">
-                    </div>
-                    <div class="team-data">
-                        <h2>Clément Bultey</h2>
-                        <p>Consultant | Data Recruiter</p>
-                    </div>
-                    <div class="team-sr">
-                        <ul>
-                            <li><a target="_blank" href="mailto:clement.bultey@sparkline.fr"  rel="mail"><span class="icon-mail"></a></li>
-                            <li><a target="_blank" href="https://www.linkedin.com/in/clémentb"  rel="linkedin"><span class="icon-linkedin"></a></li>
                             <li><a target="_blank" href="https://twitter.com/sparklinetalks"  rel="twitter"><span class="icon-twitter"></a></li>
                         </ul>
                         <div class="clear"></div>
