@@ -37,8 +37,8 @@
                     </div>
                     <p><a class="brand" href="index.php"><img src="images/logo2_sparkline.png" alt="logo sparkline"/></a></p>
                     <address>
-                        <p><span class="icon-house"></span>114 Boulevard Haussmann, 75008 Paris, France.	</p>
-				        <p><span class="icon-phone"></span>+33 681 547 032</p>
+                        <p><span class="icon-house"></span>7 Rue de Phalsbourg, 75017 Paris, France.	</p>
+				        <p><span class="icon-phone"></span>+33 (0)6 81 54 70 32</p>
 				        <p><span class="icon-mail"></span>info@sparkline.fr</p>
                     </address>	<!--fpost_close-->
                 </div>
@@ -82,6 +82,6 @@
 	
 <div class="footer">
     <div class="container">
-	   <p>Copyright &copy; 2014-2020 <span><a href="index.php">Sparkline</a></span> - Tous droits réservés</p>
+	   <p>Copyright &copy; 2014-2021 <span><a href="index.php">Sparkline</a></span> - Tous droits réservés</p>
 	</div>	
 </div>
