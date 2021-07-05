@@ -45,25 +45,16 @@
 <!-- LES DATA RECRUITERS -->
 <div class="col-wrap style col-gray"><!-- style col-shadow/ col-gray/ bg/ testimonial/-->
 	<div class="container ">
-        <h1>Les Data Recruiters</h1>	
-        <!--   hr-Start-->	
-		<div class="hr hr-left hr-light"> <!--   hr-center/ hr-left/ hr-right/  hr-short/ hr-light/-->
-            <span class="hr-inner">
-                <span class="hr-inner-style"></span>
-			</span>
-        </div>
-		<!--   hr-Close-->
-        <!-- Two columns of text below the Box -->
         <div class="row-fluid">
             <!-- Hadil Filali -->
-            <div class="span3">
+            <div class="span4">
                 <div class="team services animationBegin">
                     <div class="team-img">
                         <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible right-to-left' src="images/team/hadil-filali.jpg" alt="Hadil Filali">
                     </div>
                     <div class="team-data">
                         <h2>Hadil Filali</h2>
-                        <p>Founder/COO & Data Recruiter</p>
+                        <p>Founder / COO & Technical AI Data Recruiter</p>
                     </div>
                     <div class="team-sr">
                         <ul>
@@ -74,96 +65,44 @@
                         <div class="clear"></div>
                     </div>
                 </div><!-- /team-item -->
-            </div><!-- /.span3 -->		
+            </div><!-- /.span4 -->		
             
-            <!-- Ingrid Mlanao -->
-            <div class="span3">
-                <div class="team services animationBegin">
-                    <div class="team-img">
-                        <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible right-to-left' src="images/team/ingrid-mlanao.jpg" alt="Ingrid Mlanao">
-                    </div>
-                    <div class="team-data">
-                        <h2>Ingrid Mlanao</h2>
-                        <p>Consultante | Data Recruiter</p>
-                    </div>
-                    <div class="team-sr">
-                        <ul>
-                            <li><a target="_blank" href="mailto:ingrid.mlanao@sparkline.fr"  rel="mail"><span class="icon-mail"></a></li>
-                            <li><a target="_blank" href="https://www.linkedin.com/in/ingrid-mlanao-083a32152"  rel="linkedin"><span class="icon-linkedin"></a></li>
-                            <li><a target="_blank" href="https://twitter.com/sparklinetalks"  rel="twitter"><span class="icon-twitter"></a></li>
-                        </ul>
-                        <div class="clear"></div>
-                    </div>
-                </div><!-- /team-item -->
-            </div><!-- /.span3 -->
-            
-            <!-- Loïc Zwierzewicz -->
-            <div class="span3">
-                <div class="team services animationBegin">
-                    <div class="team-img">
-                        <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible right-to-left' src="images/team/loic-zwierzewicz.jpg" alt="Loïc Zwierzewicz">
-                    </div>
-                    <div class="team-data">
-                        <h2>Loïc Zwierzewicz</h2>
-                        <p>Consultant | Data Recruiter</p>
-                    </div>
-                    <div class="team-sr">
-                        <ul>
-                            <li><a target="_blank" href="mailto:loic.zwierzewicz@sparkline.fr"  rel="mail"><span class="icon-mail"></a></li>
-                            <li><a target="_blank" href="https://www.linkedin.com/in/loiczwierzewicz"  rel="linkedin"><span class="icon-linkedin"></a></li>
-                            <li><a target="_blank" href="https://twitter.com/sparklinetalks"  rel="twitter"><span class="icon-twitter"></a></li>
-                        </ul>
-                        <div class="clear"></div>
-                    </div>
-                </div><!-- /team-item -->
-            </div><!-- /.span3 -->
-        </div><!-- /.row -->			 
-    </div><!-- /.container -->
-</div><!-- /.col -->
-
-<!-- LES EXPERTS TECHNIQUES -->
-<div class="col-wrap col-grey"><!-- style col-shadow/ col-gray/ bg/ testimonial/-->
-	<div class="container ">
-        <h1>Les Experts techniques</h1>	
-        <!--   hr-Start-->	
-		<div class="hr hr-left hr-light"> <!--   hr-center/ hr-left/ hr-right/  hr-short/ hr-light/-->
-            <span class="hr-inner">
-                <span class="hr-inner-style"></span>
-			</span>
-        </div>
-		<!--   hr-Close-->
-        <!-- Two columns of text below the Box -->
-        <div class="row-fluid">
-            <!-- Loîc -->
-            <div class="span3">
+            <!-- Loïc Knuchel-->
+            <div class="span4">
                 <div class="team services animationBegin">
                     <div class="team-img">
                         <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible right-to-left' src="images/team/loic-knuchel.jpg" alt="Loïc Knuchel">
                     </div>
                     <div class="team-data">
                         <h2>Loïc Knuchel</h2>
-                        <p>Technical expert | Software Engineering</p>
+                        <p>Technical Advisor | Software Engineering at scale</p>
                     </div>
                     <div class="team-sr">
                         <ul>
                             <li><a target="_blank" href="https://fr.linkedin.com/in/loicknuchel"  rel="linkedin"><span class="icon-linkedin"></a></li>
-                            <li><a target="_blank" href="http://loic.knuchel.org"  rel="home"><span class="icon-home"></a></li>
-                            <li><a target="_blank" href="https://github.com/loicknuchel"  rel="github"><span class="icon-github"></a></li>
-                            <li><a target="_blank" href="https://twitter.com/loicknuchel"  rel="twitter"><span class="icon-twitter"></a></li>
                         </ul>
                         <div class="clear"></div>
                     </div>
                 </div><!-- /team-item -->
-            </div><!-- /.span3 -->            
+            </div><!-- /.span4 -->
+            
+        </div><!-- /.row -->			 
+    </div><!-- /.container -->
+</div><!-- /.col -->
+
+<!-- DEUXIEME LIGNE -->
+<div class="col-wrap col-grey"><!-- style col-shadow/ col-gray/ bg/ testimonial/-->
+	<div class="container ">
+        <div class="row-fluid">           
             <!-- Prosper -->
-            <div class="span3">
+            <div class="span4">
                 <div class="team services animationBegin">
                     <div class="team-img">
                         <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible bottom-to-top' src="images/team/prosper-burq.jpg" alt="Prosper Burq">
                     </div>
                     <div class="team-data">
                         <h2>Prosper Burq</h2>
-                        <p>Technical expert | Architecture Big Data</p>
+                        <p>Technical Advisor | Big Data Architecture & Machine Learning at scale</p>
                     </div>
                     <div class="team-sr">
                         <ul>
@@ -172,7 +111,26 @@
                         <div class="clear"></div>
                     </div>
                 </div><!-- /team-item -->
-            </div><!-- /.span3 --> 
+            </div><!-- /.span4 --> 
+            
+            <!-- Yasir KHAN -->
+            <div class="span4">
+                <div class="team services animationBegin">
+                    <div class="team-img">
+                        <img class='themeapt_animated_image themeapt_image themeapt_animate_when_almost_visible bottom-to-top' src="images/team/yasir-khan.jpg" alt="Yasir Khan, Ph.D">
+                    </div>
+                    <div class="team-data">
+                        <h2>Yasir Khan, PhD</h2>
+                        <p>Technical Advisor | AI, Data Science & Machine Learning at scale</p>
+                    </div>
+                    <div class="team-sr">
+                        <ul>
+                            <li><a target="_blank" href="https://www.linkedin.com/in/yasirkhan/"  rel="linkedin"><span class="icon-linkedin"></a></li>
+                        </ul>
+                        <div class="clear"></div>
+                    </div>
+                </div><!-- /team-item -->
+            </div><!-- /.span4 --> 
         </div><!-- /.row -->			 
     </div><!-- /.container -->
 </div><!-- /.col -->
