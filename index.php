@@ -96,21 +96,6 @@
         </div>
     </div>	<!--/fullwidthbanner-container-->
 </div><!-- /.Slider -->
-
-<!-- INTRO -->
-<!-- <div class="col-wrap "><!-- style col-shadow/ col-gray/ testimonial/ -->
-<!--     <div class="container ">
-<!--         <div class="row-fluid"><!-- box-style row Class .box-style -->
-<!--             <div class="span12 themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible left-to-right">
-<!--                 <div class="container">
-<!--                     <div class="row-fluid">
-<!--                         <h1>CABINET DE RECRUTEMENT SPECIALISE #<b>DATA SCIENCE</b> #<b>BIG DATA</b> #<b>AI</b> #<b>CLOUD</b></h1>
-<!--                     </div>
-<!--                 </div>
-<!--             </div>
-<!--        </div>
-<!--     </div>
-</div> -->
     
 <div class="col-wrap "><!-- style col-shadow/ col-gray/ testimonial/-->
     <div class="container ">
@@ -126,10 +111,14 @@
 				        <span class="hr-inner-style"></span>
 				    </span>
 			    </div>
-			    <!--   hr-End-->	
-                <p class="center">
-                    Depuis 2014, nous avons développé une expertise sur le recrutement des profils spécialisés sur les nouvelles  technologies dédiées à l'exploration et la valorisation de la Data : Data Scientist, Data Analyst, Data Engineer, Data Architect, DataOps, Data Manager, Chief Data Officer, Cloud Engineer, Cloud Architect...                    
-                </p>					
+			    <!--   hr-End-->
+                <div>
+                    <ul>
+                        <p><li>Pionnier en France depuis 2014, nous avons développé une expertise dans le recrutement des profils spécialisés sur les nouvelles  technologies dédiées à l'exploration et la valorisation de la Data.</p></li>
+                        <p><li>Nous avons accompagné plus de 250 entreprises en France dans la recherche de spécialistes en Data.</p></li>
+                        <p><li>Notre réseau de candidats est composé de Data Scientist, ML Engineer, MLOps Engineer, Data Engineer, Data Architect, Data Analyst, Analyst Engineer, Data Manager, Data Product Owner, Chief Data Officer, Cloud Engineer, Cloud Architect...</p></li>
+                    </ul>
+                </div>			
             </div><!-- /.span12 -->		
         </div><!-- /.row -->		 
 	</div><!-- /.container -->
@@ -138,32 +127,35 @@
 <!-- NOS 3 OFFRES -->
 <div class="col-wrap"><!-- style col-shadow/ col-gray/ testimonial/-->
     <div class="container ">
-	   <!-- Three columns of text below the carousel -->
+        <div class="big-title">
+                    <h2><b>3 OFFRES POUR VOUS ACCOMPAGNER A CHAQUE ETAPE DE VOTRE TRANSITION VERS LA DATA</b></h2>
+        </div>
+        <!-- Three columns of text below the carousel -->
         <div class="row-fluid">
             <div class="span4 first themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible left-to-right">
                 <div class="box-style "> <!-- box-style row Class .box-style -->
                     <span class="icon-target"></span>
-                    <h2>Chasse CDI/Freelance</h2>
-					<p>Vous voulez internaliser ou renforcer votre expertise interne Data avec de nouveaux collaborateurs ? Vous souhaitez faire appel à un freelance sur une expertise Data ? </p>
+                    <h2>Chasse CDI</h2>
+					<p>Vous souhaitez recruter votre propre équipe d'experts Data/IA ? Renforcer votre équipe existante avec de nouveaux talents ? Remplacer ou anticiper un départ au sein de votre équipe Data/IA ?</p>
 					<p><a class="btn-white" href="contact.php">Contactez-nous</a></p>
                 </div><!-- /.spanin -->
             </div><!-- /.span4 -->
 				
 			<div class="span4 themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible bottom-to-top">
                 <div class="box-style ">
-                    <span class="icon-checkbox-checked"></span>
-					<h2>Assessment / Evaluation</h2>
-                    <p>Vous avez constitué un pipe de candidats potentiels spécialisés dans la Data et vous souhaitez avoir un feedback externe sur leurs compétences techniques et leur savoir-être ?</p>
+                    <span class="icon-users"></span>
+					<h2>Freelances AI</h2>
+                    <p>Vous devez faire avancer vos projets Data/IA ? Mettre sur des rails un nouveau projet Data/IA ? Bénéficier temporairement d'une expertise Data spécifique (industrialisation, architecture, sécurité, etc.) ?</p>
 					<p><a class="btn-white" href="contact.php">Contactez-nous</a></p>
 				</div><!-- /.spanin -->
             </div><!-- /.span4 -->		
 				
 			<div class="span4 themeapt_animated_text themeapt_text  themeapt_animate_when_almost_visible right-to-left">
                 <div class="box-style ">
-                    <span class="icon-users"></span>
-                    <h2>Formation Recrutement</h2>
-                    <p>Vous souhaitez former votre équipe (RH, Manager) au recrutement des profils Data (sourcing, préqualification téléphonique, conduite de l'entretien, intégration...) ?</p>
-                    <p><a class="btn-white" href="contact.php">Contactez-nous</a></p>
+                    <span class="icon-checkbox-checked"></span>
+                    <h2>Formations MLOps</h2>
+                    <p>Vous souhaitez former et rendre opérationnel des membres de vos équipes Data/IA (Data Scientist, ML Engineer) sur l'industrialisation et le monitoring des modèles Machine Learning en production ?</p>
+                    <p><a class="btn-white" target="_blank" href="https://ml-oops.io">Voir l'offre</a></p>
 				</div><!-- /.spanin -->
             </div><!-- /.span4 -->
         </div><!-- /.row -->		  
@@ -192,6 +184,11 @@
                 <div class="client themeapt-gallery-thumb">
                     <ul>
                         <li>
+                            <a target="_blank" href="https://axsmarine.com" class="bwWrapper featured ">
+                                <img src="images/clients/axs-marine.jpg" alt="AXS MARINE">
+                            </a>
+                        </li>
+                        <li>
                             <a target="_blank" href="https://www.dior.com" class="bwWrapper featured ">
                                 <img src="images/clients/christian-dior-couture.jpg" alt="Christian Dior Couture">
                             </a>
@@ -202,8 +199,18 @@
                             </a>
                         </li>
                         <li>
-                            <a target="_blank" href="https://www.prismamedia.com" class="bwWrapper featured ">
-                                <img src="images/clients/prisma-media.jpg" alt="PRISMA MEDIA">
+                            <a target="_blank" href="https://chanel.com" class="bwWrapper featured ">
+                                <img src="images/clients/chanel.jpg" alt="CHANEL">
+                            </a>
+                        </li>
+						<li>
+                            <a target="_blank" href="https://monbeautycoach.com" class="bwWrapper featured ">
+                                <img src="images/clients/mon-beauty-coach.jpg" alt="Mon Beauty Coach">
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="https://www.hymaia.com" class="bwWrapper featured ">
+                                <img src="images/clients/hymaia.jpg" alt="Hymaia">
                             </a>
                         </li>
                         <li>
@@ -212,18 +219,18 @@
                             </a>
                         </li>
                         <li>
-                            <a target="_blank" href="https://www.bouyguestelecom.fr" class="bwWrapper featured ">
-                                <img src="images/clients/bouygues-telecom.jpg" alt="BOUYGUES TELECOM">
-                            </a>
-                        </li> 
-						<li>
-                            <a target="_blank" href="https://www.deezer.com" class="bwWrapper featured ">
-                                <img src="images/clients/deezer.jpg" alt="Deezer">
+                            <a target="_blank" href="https://www.but.fr" class="bwWrapper featured ">
+                                <img src="images/clients/but.jpg" alt="BUT">
                             </a>
                         </li>
                         <li>
                             <a target="_blank" href="http://www.octo.com" class="bwWrapper featured ">
                                 <img src="images/clients/octo.jpg" alt="Octo Technology">
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="https://www.verisure.fr" class="bwWrapper featured ">
+                                <img src="images/clients/verisure.jpg" alt="Verisure">
                             </a>
                         </li>
                         <li>
@@ -236,10 +243,6 @@
                                 <img src="images/clients/kiabi.jpg" alt="KIABI">
                             </a>
                         </li>
-                        <li>
-                            <a target="_blank" href="http://www.fortia.fr" class="bwWrapper featured ">
-                                <img src="images/clients/fortia.jpg" alt="Fortia Financial Services">
-                            </a>
                         <li>
                             <a target="_blank" href="https://www.ekimetrics.com" class="bwWrapper featured ">
                                 <img src="images/clients/ekimetrics.jpg" alt="Ekimetrics">

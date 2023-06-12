@@ -30,6 +30,7 @@
 				<li><a href="services.php"><span class="icon-target"></span>Services</a></li>
 				<li><a href="team.php"><span class="icon-users "></span>Equipe</a></li>
                 <li><a href="contact.php"><span class="icon-mail "></span>Contact</a></li>
+                <!-- <li><a href="blog.php"><span class="icon-blog "></span>Blog</a></li> -->
             </ul>
         </div><!-- /main-menu -->
     </div> <!-- /.container -->

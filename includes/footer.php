@@ -82,6 +82,6 @@
 	
 <div class="footer">
     <div class="container">
-	   <p>Copyright &copy; 2014-2021 <span><a href="index.php">Sparkline</a></span> - Tous droits réservés</p>
+	   <p>Copyright &copy; 2014-2023 <span><a href="index.php">Sparkline</a></span> - Tous droits réservés</p>
 	</div>	
 </div>
